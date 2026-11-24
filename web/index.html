@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="二十四节气传统文化智能体：节气资料、知识关系与问答">
+  <meta name="theme-color" content="#f7f3ea">
+  <title>二十四节气 · 传统文化智能体</title>
+  <link rel="stylesheet" href="css/main.css?v=wc11">
+</head>
+<body>
+  <div id="bg-layer" aria-hidden="true"></div>
+
+  <!-- 顶部导航 -->
+  <header class="site-header">
+    <a class="brand" href="#cover">
+      <span class="brand-seal">节</span>
+      <span class="site-title">二十四节气</span>
+    </a>
+    <nav class="site-nav">
+      <a href="#overview" data-nav="overview">总览</a>
+      <a href="#relations" data-nav="relations">图谱</a>
+      <a href="#qa" data-nav="qa">问答</a>
+    </nav>
+  </header>
+
+  <!-- 全屏滚动翻页容器 -->
+  <main id="scroll-container">
+    <!-- 板块由 app.js 动态渲染 -->
+  </main>
+
+  <!-- 右侧导航点 -->
+  <nav id="section-dots" aria-label="板块导航"></nav>
+
+  <!-- 底部状态 -->
+  <footer class="site-footer">
+    <p id="data-status">正在读取交付数据……</p>
+  </footer>
+
+  <script src="vendor/echarts.min.js"></script>
+  <script src="vendor/echarts-gl.min.js"></script>
+  <script src="js/data-loader.js"></script>
+  <script src="js/app.js?v=map9"></script>
+</body>
+</html>

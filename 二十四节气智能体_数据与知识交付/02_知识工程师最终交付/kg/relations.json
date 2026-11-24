@@ -1,0 +1,4815 @@
+{
+  "schema_version": "1.0",
+  "source_dataset": "data/solar_terms.json",
+  "source_sha256": "992303eddc8de1affb4c5ed85622d33c805e5b381dd3518e530792227fbd9467",
+  "nodes": [
+    {
+      "id": "ST01",
+      "type": "solar_term",
+      "name": "立春",
+      "season": "春"
+    },
+    {
+      "id": "PHENOLOGY_0d158cd2d166",
+      "type": "phenology",
+      "name": "东风解冻"
+    },
+    {
+      "id": "PHENOLOGY_5dad38258c06",
+      "type": "phenology",
+      "name": "蛰虫始振"
+    },
+    {
+      "id": "PHENOLOGY_d4bb5761318d",
+      "type": "phenology",
+      "name": "鱼陟负冰"
+    },
+    {
+      "id": "CUSTOM_f9040b581940",
+      "type": "custom",
+      "name": "迎春"
+    },
+    {
+      "id": "CUSTOM_b83ffe9a263a",
+      "type": "custom",
+      "name": "鞭春牛"
+    },
+    {
+      "id": "CUSTOM_79f01937c9dd",
+      "type": "custom",
+      "name": "说春"
+    },
+    {
+      "id": "CUSTOM_6509c9b1d499",
+      "type": "custom",
+      "name": "戴春鸡"
+    },
+    {
+      "id": "CUSTOM_afb74fda8821",
+      "type": "custom",
+      "name": "佩燕子"
+    },
+    {
+      "id": "FOOD_3218306a74da",
+      "type": "food",
+      "name": "春盘"
+    },
+    {
+      "id": "FOOD_ad4fc0d28d4c",
+      "type": "food",
+      "name": "春饼"
+    },
+    {
+      "id": "FOOD_e8dd702cdb5f",
+      "type": "food",
+      "name": "春卷"
+    },
+    {
+      "id": "FOOD_5b449897b61f",
+      "type": "food",
+      "name": "萝卜"
+    },
+    {
+      "id": "POEM_4aeb4bbdd8d1",
+      "type": "poem",
+      "name": "张栻《立春偶成》",
+      "quote": "律回岁晚冰霜少，春到人间草木知"
+    },
+    {
+      "id": "ST02",
+      "type": "solar_term",
+      "name": "雨水",
+      "season": "春"
+    },
+    {
+      "id": "PHENOLOGY_e9994d56cd1c",
+      "type": "phenology",
+      "name": "獭祭鱼"
+    },
+    {
+      "id": "PHENOLOGY_3109e590b8da",
+      "type": "phenology",
+      "name": "鸿雁来"
+    },
+    {
+      "id": "PHENOLOGY_f7c6e6ab14a7",
+      "type": "phenology",
+      "name": "草木萌动"
+    },
+    {
+      "id": "CUSTOM_f547d2c71d28",
+      "type": "custom",
+      "name": "回娘家"
+    },
+    {
+      "id": "CUSTOM_febce78610a4",
+      "type": "custom",
+      "name": "接寿"
+    },
+    {
+      "id": "CUSTOM_9f90d5b4d67f",
+      "type": "custom",
+      "name": "拉保保"
+    },
+    {
+      "id": "FOOD_94efa2cba9ee",
+      "type": "food",
+      "name": "罐罐肉"
+    },
+    {
+      "id": "FOOD_0aab47358192",
+      "type": "food",
+      "name": "猪脚鸡汤"
+    },
+    {
+      "id": "POEM_16d9e92778cc",
+      "type": "poem",
+      "name": "杜甫《春夜喜雨》",
+      "quote": "好雨知时节，当春乃发生"
+    },
+    {
+      "id": "ST03",
+      "type": "solar_term",
+      "name": "惊蛰",
+      "season": "春"
+    },
+    {
+      "id": "PHENOLOGY_00f873025232",
+      "type": "phenology",
+      "name": "桃始华"
+    },
+    {
+      "id": "PHENOLOGY_7fcfe6c288f6",
+      "type": "phenology",
+      "name": "仓庚鸣"
+    },
+    {
+      "id": "PHENOLOGY_f4a4ce93d950",
+      "type": "phenology",
+      "name": "鹰化为鸠"
+    },
+    {
+      "id": "CUSTOM_fc91401706b9",
+      "type": "custom",
+      "name": "蒙鼓皮"
+    },
+    {
+      "id": "CUSTOM_829736c8f801",
+      "type": "custom",
+      "name": "祭白虎"
+    },
+    {
+      "id": "CUSTOM_42620e1aff1c",
+      "type": "custom",
+      "name": "扫虫节"
+    },
+    {
+      "id": "CUSTOM_4db55956c843",
+      "type": "custom",
+      "name": "炒虫"
+    },
+    {
+      "id": "FOOD_792918a05a59",
+      "type": "food",
+      "name": "梨"
+    },
+    {
+      "id": "FOOD_903a2468bb99",
+      "type": "food",
+      "name": "炒豆"
+    },
+    {
+      "id": "FOOD_1777a6fcebda",
+      "type": "food",
+      "name": "炒米谷"
+    },
+    {
+      "id": "POEM_375fda2259ba",
+      "type": "poem",
+      "name": "韦应物《观田家》",
+      "quote": "微雨众卉新，一雷惊蛰始"
+    },
+    {
+      "id": "ST04",
+      "type": "solar_term",
+      "name": "春分",
+      "season": "春"
+    },
+    {
+      "id": "PHENOLOGY_f623c7e6cc92",
+      "type": "phenology",
+      "name": "玄鸟至"
+    },
+    {
+      "id": "PHENOLOGY_892ddb80afa1",
+      "type": "phenology",
+      "name": "雷乃发声"
+    },
+    {
+      "id": "PHENOLOGY_86497c9ceb91",
+      "type": "phenology",
+      "name": "始电"
+    },
+    {
+      "id": "CUSTOM_cdab3852d6ad",
+      "type": "custom",
+      "name": "祭日"
+    },
+    {
+      "id": "CUSTOM_90a481268ad7",
+      "type": "custom",
+      "name": "祭祖春祭"
+    },
+    {
+      "id": "CUSTOM_5385355bb2b5",
+      "type": "custom",
+      "name": "放风筝"
+    },
+    {
+      "id": "CUSTOM_9e1b5ca69bce",
+      "type": "custom",
+      "name": "竖蛋"
+    },
+    {
+      "id": "CUSTOM_0de3536f4292",
+      "type": "custom",
+      "name": "送春牛"
+    },
+    {
+      "id": "CUSTOM_1a43cc1d9a35",
+      "type": "custom",
+      "name": "粘雀子嘴"
+    },
+    {
+      "id": "CUSTOM_48e789079417",
+      "type": "custom",
+      "name": "犒劳耕牛"
+    },
+    {
+      "id": "FOOD_d787717b91f0",
+      "type": "food",
+      "name": "春菜滚汤"
+    },
+    {
+      "id": "FOOD_2667f4630b04",
+      "type": "food",
+      "name": "汤圆"
+    },
+    {
+      "id": "ST05",
+      "type": "solar_term",
+      "name": "清明",
+      "season": "春"
+    },
+    {
+      "id": "PHENOLOGY_243061ea77e9",
+      "type": "phenology",
+      "name": "桐始华"
+    },
+    {
+      "id": "PHENOLOGY_082340699d68",
+      "type": "phenology",
+      "name": "田鼠化为鴽"
+    },
+    {
+      "id": "PHENOLOGY_e228b011ad3d",
+      "type": "phenology",
+      "name": "虹始见"
+    },
+    {
+      "id": "CUSTOM_e180f95212f2",
+      "type": "custom",
+      "name": "扫墓"
+    },
+    {
+      "id": "CUSTOM_b3578f24a52e",
+      "type": "custom",
+      "name": "踏青"
+    },
+    {
+      "id": "CUSTOM_dbac2142532b",
+      "type": "custom",
+      "name": "荡秋千"
+    },
+    {
+      "id": "CUSTOM_3a4f1141ce50",
+      "type": "custom",
+      "name": "蹴鞠"
+    },
+    {
+      "id": "CUSTOM_f8f5ce83ae7a",
+      "type": "custom",
+      "name": "植树戴柳"
+    },
+    {
+      "id": "FOOD_ab812741579d",
+      "type": "food",
+      "name": "青团"
+    },
+    {
+      "id": "FOOD_0ece7b3dc40f",
+      "type": "food",
+      "name": "子福"
+    },
+    {
+      "id": "FOOD_7293d7867503",
+      "type": "food",
+      "name": "清明粽"
+    },
+    {
+      "id": "FOOD_5e6a8ef8e4df",
+      "type": "food",
+      "name": "炒螺蛳"
+    },
+    {
+      "id": "FOOD_df330ff14c2e",
+      "type": "food",
+      "name": "冷饽饽"
+    },
+    {
+      "id": "FOOD_59f9299f2661",
+      "type": "food",
+      "name": "冷高粱米饭"
+    },
+    {
+      "id": "POEM_8165d804e11a",
+      "type": "poem",
+      "name": "晏殊《破阵子》",
+      "quote": "燕子来时新社，梨花落后清明"
+    },
+    {
+      "id": "ST06",
+      "type": "solar_term",
+      "name": "谷雨",
+      "season": "春"
+    },
+    {
+      "id": "PHENOLOGY_701ec1bc6c36",
+      "type": "phenology",
+      "name": "萍始生"
+    },
+    {
+      "id": "PHENOLOGY_1d8eaf60e4e8",
+      "type": "phenology",
+      "name": "鸣鸠拂其羽"
+    },
+    {
+      "id": "PHENOLOGY_1abfa9ec9851",
+      "type": "phenology",
+      "name": "戴胜降于桑"
+    },
+    {
+      "id": "CUSTOM_e8eaca51b211",
+      "type": "custom",
+      "name": "谷雨摘茶"
+    },
+    {
+      "id": "CUSTOM_b58282ab1093",
+      "type": "custom",
+      "name": "食香椿"
+    },
+    {
+      "id": "CUSTOM_f3a71304c631",
+      "type": "custom",
+      "name": "侗寨谷雨节"
+    },
+    {
+      "id": "CUSTOM_c1b795782e34",
+      "type": "custom",
+      "name": "渔民节"
+    },
+    {
+      "id": "CUSTOM_aed6fa42888d",
+      "type": "custom",
+      "name": "禁蝎"
+    },
+    {
+      "id": "CUSTOM_67ca4659f26e",
+      "type": "custom",
+      "name": "祭仓颉"
+    },
+    {
+      "id": "FOOD_0b1be1a6aa9d",
+      "type": "food",
+      "name": "谷雨茶"
+    },
+    {
+      "id": "FOOD_725fc2d921f8",
+      "type": "food",
+      "name": "香椿"
+    },
+    {
+      "id": "FOOD_5b25f679acb8",
+      "type": "food",
+      "name": "乌米饭"
+    },
+    {
+      "id": "ST07",
+      "type": "solar_term",
+      "name": "立夏",
+      "season": "夏"
+    },
+    {
+      "id": "PHENOLOGY_12b83b092358",
+      "type": "phenology",
+      "name": "蝼蝈鸣"
+    },
+    {
+      "id": "PHENOLOGY_4d8714b95d5b",
+      "type": "phenology",
+      "name": "蚯蚓出"
+    },
+    {
+      "id": "PHENOLOGY_e477044c6a42",
+      "type": "phenology",
+      "name": "王瓜生"
+    },
+    {
+      "id": "CUSTOM_5d2144dd4387",
+      "type": "custom",
+      "name": "迎夏仪式"
+    },
+    {
+      "id": "CUSTOM_73389d748252",
+      "type": "custom",
+      "name": "尝新"
+    },
+    {
+      "id": "CUSTOM_ed4989104e22",
+      "type": "custom",
+      "name": "斗蛋"
+    },
+    {
+      "id": "CUSTOM_f9f78f9075a0",
+      "type": "custom",
+      "name": "立夏称人"
+    },
+    {
+      "id": "FOOD_f3efc3aab77f",
+      "type": "food",
+      "name": "立夏蛋"
+    },
+    {
+      "id": "FOOD_85b5b1556493",
+      "type": "food",
+      "name": "樱桃"
+    },
+    {
+      "id": "FOOD_d46af6461178",
+      "type": "food",
+      "name": "青梅"
+    },
+    {
+      "id": "FOOD_7db9de547669",
+      "type": "food",
+      "name": "鲥鱼"
+    },
+    {
+      "id": "FOOD_0f0e6f6fc8bd",
+      "type": "food",
+      "name": "麦子"
+    },
+    {
+      "id": "FOOD_61a827e53bc4",
+      "type": "food",
+      "name": "立夏饭"
+    },
+    {
+      "id": "ST08",
+      "type": "solar_term",
+      "name": "小满",
+      "season": "夏"
+    },
+    {
+      "id": "PHENOLOGY_d2954847bae2",
+      "type": "phenology",
+      "name": "苦菜秀"
+    },
+    {
+      "id": "PHENOLOGY_19abe16e73d6",
+      "type": "phenology",
+      "name": "靡草死"
+    },
+    {
+      "id": "PHENOLOGY_2e59079c41fc",
+      "type": "phenology",
+      "name": "麦秋至"
+    },
+    {
+      "id": "CUSTOM_4693a80eedb9",
+      "type": "custom",
+      "name": "祭车神"
+    },
+    {
+      "id": "CUSTOM_d89d365756df",
+      "type": "custom",
+      "name": "抢水仪式"
+    },
+    {
+      "id": "CUSTOM_40231c5ade32",
+      "type": "custom",
+      "name": "祭蚕"
+    },
+    {
+      "id": "FOOD_34fe877f2a2f",
+      "type": "food",
+      "name": "苦菜"
+    },
+    {
+      "id": "FOOD_0b9e2d92e377",
+      "type": "food",
+      "name": "麦仁"
+    },
+    {
+      "id": "ST09",
+      "type": "solar_term",
+      "name": "芒种",
+      "season": "夏"
+    },
+    {
+      "id": "PHENOLOGY_da47ee1db7d7",
+      "type": "phenology",
+      "name": "螳螂生"
+    },
+    {
+      "id": "PHENOLOGY_27ed1946ac02",
+      "type": "phenology",
+      "name": "鵙始鸣"
+    },
+    {
+      "id": "PHENOLOGY_dc6853e25152",
+      "type": "phenology",
+      "name": "反舌无声"
+    },
+    {
+      "id": "CUSTOM_feea81d4fc43",
+      "type": "custom",
+      "name": "送花神"
+    },
+    {
+      "id": "CUSTOM_60e2f464ac43",
+      "type": "custom",
+      "name": "安苗"
+    },
+    {
+      "id": "CUSTOM_997a8e60fceb",
+      "type": "custom",
+      "name": "打泥巴仗"
+    },
+    {
+      "id": "CUSTOM_73f3d28fea90",
+      "type": "custom",
+      "name": "煮梅"
+    },
+    {
+      "id": "FOOD_2bde39b514ac",
+      "type": "food",
+      "name": "煮梅"
+    },
+    {
+      "id": "FOOD_27c62ee1509f",
+      "type": "food",
+      "name": "新麦面食"
+    },
+    {
+      "id": "ST10",
+      "type": "solar_term",
+      "name": "夏至",
+      "season": "夏"
+    },
+    {
+      "id": "PHENOLOGY_0f786391fafd",
+      "type": "phenology",
+      "name": "鹿角解"
+    },
+    {
+      "id": "PHENOLOGY_420965ac592a",
+      "type": "phenology",
+      "name": "蝉始鸣"
+    },
+    {
+      "id": "PHENOLOGY_8e1a35398952",
+      "type": "phenology",
+      "name": "半夏生"
+    },
+    {
+      "id": "CUSTOM_d2c0b95abdf2",
+      "type": "custom",
+      "name": "祭神祭祖"
+    },
+    {
+      "id": "CUSTOM_80e8307073a2",
+      "type": "custom",
+      "name": "称体重"
+    },
+    {
+      "id": "CUSTOM_fe8df914fc95",
+      "type": "custom",
+      "name": "观白夜极光"
+    },
+    {
+      "id": "FOOD_ee71f0ead1f6",
+      "type": "food",
+      "name": "夏至面"
+    },
+    {
+      "id": "FOOD_b4e956a4bc57",
+      "type": "food",
+      "name": "馄饨"
+    },
+    {
+      "id": "FOOD_4c4051119e2c",
+      "type": "food",
+      "name": "麦粥"
+    },
+    {
+      "id": "FOOD_1aa58495a9ed",
+      "type": "food",
+      "name": "蒲丝饼"
+    },
+    {
+      "id": "ST11",
+      "type": "solar_term",
+      "name": "小暑",
+      "season": "夏"
+    },
+    {
+      "id": "PHENOLOGY_a4630ed9cc1e",
+      "type": "phenology",
+      "name": "温风至"
+    },
+    {
+      "id": "PHENOLOGY_56a78dc42bf7",
+      "type": "phenology",
+      "name": "蟋蟀居宇"
+    },
+    {
+      "id": "PHENOLOGY_580c48cd9217",
+      "type": "phenology",
+      "name": "鹰始鸷"
+    },
+    {
+      "id": "CUSTOM_96ec56f6500e",
+      "type": "custom",
+      "name": "食新"
+    },
+    {
+      "id": "CUSTOM_e0004e678364",
+      "type": "custom",
+      "name": "晒书画衣物"
+    },
+    {
+      "id": "CUSTOM_2134b2da77a5",
+      "type": "custom",
+      "name": "游伏"
+    },
+    {
+      "id": "FOOD_24b6fc311bde",
+      "type": "food",
+      "name": "头伏饺子"
+    },
+    {
+      "id": "FOOD_d8b5f6d957c9",
+      "type": "food",
+      "name": "二伏面"
+    },
+    {
+      "id": "FOOD_0c3a394e4513",
+      "type": "food",
+      "name": "暑羊"
+    },
+    {
+      "id": "FOOD_64820367255a",
+      "type": "food",
+      "name": "炒鳝片"
+    },
+    {
+      "id": "FOOD_f2f9e1f4d60a",
+      "type": "food",
+      "name": "蜜汁藕"
+    },
+    {
+      "id": "ST12",
+      "type": "solar_term",
+      "name": "大暑",
+      "season": "夏"
+    },
+    {
+      "id": "PHENOLOGY_dbba55902dd1",
+      "type": "phenology",
+      "name": "腐草为萤"
+    },
+    {
+      "id": "PHENOLOGY_8b40d3014f5e",
+      "type": "phenology",
+      "name": "土润溽暑"
+    },
+    {
+      "id": "PHENOLOGY_f6ffc96a2b0b",
+      "type": "phenology",
+      "name": "大雨时行"
+    },
+    {
+      "id": "CUSTOM_d7ff3fa7457e",
+      "type": "custom",
+      "name": "送大暑船"
+    },
+    {
+      "id": "CUSTOM_d247b437ffb6",
+      "type": "custom",
+      "name": "贴三伏贴"
+    },
+    {
+      "id": "CUSTOM_2dc06b14cae9",
+      "type": "custom",
+      "name": "饮伏茶"
+    },
+    {
+      "id": "FOOD_eb48c5a4f226",
+      "type": "food",
+      "name": "仙草"
+    },
+    {
+      "id": "FOOD_7475debe58ca",
+      "type": "food",
+      "name": "凤梨"
+    },
+    {
+      "id": "FOOD_f8e6501c341a",
+      "type": "food",
+      "name": "荔枝"
+    },
+    {
+      "id": "FOOD_35b94e5fcf2a",
+      "type": "food",
+      "name": "羊肉"
+    },
+    {
+      "id": "FOOD_2707fa03cc1b",
+      "type": "food",
+      "name": "米糟"
+    },
+    {
+      "id": "FOOD_822641ae7099",
+      "type": "food",
+      "name": "童子鸡"
+    },
+    {
+      "id": "ST13",
+      "type": "solar_term",
+      "name": "立秋",
+      "season": "秋"
+    },
+    {
+      "id": "PHENOLOGY_e1ddde89c626",
+      "type": "phenology",
+      "name": "凉风至"
+    },
+    {
+      "id": "PHENOLOGY_1830252e2f42",
+      "type": "phenology",
+      "name": "白露降"
+    },
+    {
+      "id": "PHENOLOGY_9731a5906a94",
+      "type": "phenology",
+      "name": "寒蝉鸣"
+    },
+    {
+      "id": "CUSTOM_48b98180d063",
+      "type": "custom",
+      "name": "立秋节"
+    },
+    {
+      "id": "CUSTOM_d84c440d50db",
+      "type": "custom",
+      "name": "秋忙会"
+    },
+    {
+      "id": "CUSTOM_77f06431b99a",
+      "type": "custom",
+      "name": "贴秋膘"
+    },
+    {
+      "id": "CUSTOM_59ac89770032",
+      "type": "custom",
+      "name": "食秋桃"
+    },
+    {
+      "id": "CUSTOM_1c5ee54e7bd5",
+      "type": "custom",
+      "name": "啃秋"
+    },
+    {
+      "id": "FOOD_92a07e886e75",
+      "type": "food",
+      "name": "炖肉"
+    },
+    {
+      "id": "FOOD_97cae905c36b",
+      "type": "food",
+      "name": "西瓜"
+    },
+    {
+      "id": "FOOD_41c5a52cc738",
+      "type": "food",
+      "name": "秋桃"
+    },
+    {
+      "id": "FOOD_130b07d541ca",
+      "type": "food",
+      "name": "银耳百合羹"
+    },
+    {
+      "id": "ST14",
+      "type": "solar_term",
+      "name": "处暑",
+      "season": "秋"
+    },
+    {
+      "id": "PHENOLOGY_85de92856402",
+      "type": "phenology",
+      "name": "鹰乃祭鸟"
+    },
+    {
+      "id": "PHENOLOGY_5d6d1d3e19f8",
+      "type": "phenology",
+      "name": "天地始肃"
+    },
+    {
+      "id": "PHENOLOGY_48aedda5e250",
+      "type": "phenology",
+      "name": "禾乃登"
+    },
+    {
+      "id": "CUSTOM_f7a0370e74f6",
+      "type": "custom",
+      "name": "祭祖"
+    },
+    {
+      "id": "CUSTOM_c84acebf9ede",
+      "type": "custom",
+      "name": "放河灯"
+    },
+    {
+      "id": "CUSTOM_70c356be5f95",
+      "type": "custom",
+      "name": "出游迎秋"
+    },
+    {
+      "id": "CUSTOM_f7b3a93ae7e2",
+      "type": "custom",
+      "name": "开渔节"
+    },
+    {
+      "id": "FOOD_da55d7bad81e",
+      "type": "food",
+      "name": "处暑百合鸭"
+    },
+    {
+      "id": "FOOD_5963acefbf5f",
+      "type": "food",
+      "name": "老鸭汤"
+    },
+    {
+      "id": "ST15",
+      "type": "solar_term",
+      "name": "白露",
+      "season": "秋"
+    },
+    {
+      "id": "PHENOLOGY_3d1594923b19",
+      "type": "phenology",
+      "name": "玄鸟归"
+    },
+    {
+      "id": "PHENOLOGY_68c5fc338c8d",
+      "type": "phenology",
+      "name": "群鸟养羞"
+    },
+    {
+      "id": "CUSTOM_e3dbd4a2028b",
+      "type": "custom",
+      "name": "祭祀禹王"
+    },
+    {
+      "id": "CUSTOM_2b5af12d963a",
+      "type": "custom",
+      "name": "喝白露茶"
+    },
+    {
+      "id": "CUSTOM_a322d5725034",
+      "type": "custom",
+      "name": "酿白露米酒"
+    },
+    {
+      "id": "FOOD_b0ebd7c27711",
+      "type": "food",
+      "name": "白露茶"
+    },
+    {
+      "id": "FOOD_ebc648457ea3",
+      "type": "food",
+      "name": "白露米酒"
+    },
+    {
+      "id": "FOOD_8a20d05fc261",
+      "type": "food",
+      "name": "水八仙"
+    },
+    {
+      "id": "POEM_c66f7c3b3373",
+      "type": "poem",
+      "name": "《诗经·秦风·蒹葭》",
+      "quote": "蒹葭苍苍，白露为霜"
+    },
+    {
+      "id": "ST16",
+      "type": "solar_term",
+      "name": "秋分",
+      "season": "秋"
+    },
+    {
+      "id": "PHENOLOGY_beda9a5ad996",
+      "type": "phenology",
+      "name": "雷始收声"
+    },
+    {
+      "id": "PHENOLOGY_15a5b7208792",
+      "type": "phenology",
+      "name": "蛰虫坯户"
+    },
+    {
+      "id": "PHENOLOGY_21af65cf9ea1",
+      "type": "phenology",
+      "name": "水始涸"
+    },
+    {
+      "id": "CUSTOM_b307b43b9150",
+      "type": "custom",
+      "name": "祭月"
+    },
+    {
+      "id": "CUSTOM_fd8fd94d8257",
+      "type": "custom",
+      "name": "走社"
+    },
+    {
+      "id": "CUSTOM_3337afa67a1f",
+      "type": "custom",
+      "name": "送秋牛"
+    },
+    {
+      "id": "FOOD_34d3b9396f9f",
+      "type": "food",
+      "name": "秋菜滚汤"
+    },
+    {
+      "id": "FOOD_958b28effc9d",
+      "type": "food",
+      "name": "桂花鸭"
+    },
+    {
+      "id": "FOOD_f5375b0ee4ca",
+      "type": "food",
+      "name": "蟹"
+    },
+    {
+      "id": "ST17",
+      "type": "solar_term",
+      "name": "寒露",
+      "season": "秋"
+    },
+    {
+      "id": "PHENOLOGY_3035b315ee7a",
+      "type": "phenology",
+      "name": "鸿雁来宾"
+    },
+    {
+      "id": "PHENOLOGY_585fc21262b4",
+      "type": "phenology",
+      "name": "雀入大水为蛤"
+    },
+    {
+      "id": "PHENOLOGY_a65997b5ee36",
+      "type": "phenology",
+      "name": "菊有黄华"
+    },
+    {
+      "id": "CUSTOM_b5e829d72b59",
+      "type": "custom",
+      "name": "登高赏菊"
+    },
+    {
+      "id": "CUSTOM_496ff7f2d0eb",
+      "type": "custom",
+      "name": "斗蟋蟀"
+    },
+    {
+      "id": "CUSTOM_c0670e0e91de",
+      "type": "custom",
+      "name": "秋钓边"
+    },
+    {
+      "id": "CUSTOM_c55cbffa53df",
+      "type": "custom",
+      "name": "饮菊花酒"
+    },
+    {
+      "id": "CUSTOM_4ecd508341f5",
+      "type": "custom",
+      "name": "喝寒露茶"
+    },
+    {
+      "id": "FOOD_8ff8204ac443",
+      "type": "food",
+      "name": "菊花酒"
+    },
+    {
+      "id": "FOOD_f5b51a9307a4",
+      "type": "food",
+      "name": "寒露茶"
+    },
+    {
+      "id": "FOOD_9586e57985bb",
+      "type": "food",
+      "name": "芝麻"
+    },
+    {
+      "id": "ST18",
+      "type": "solar_term",
+      "name": "霜降",
+      "season": "秋"
+    },
+    {
+      "id": "PHENOLOGY_45f6593f7c0a",
+      "type": "phenology",
+      "name": "豺乃祭兽"
+    },
+    {
+      "id": "PHENOLOGY_f2b2aa78b3dc",
+      "type": "phenology",
+      "name": "草木黄落"
+    },
+    {
+      "id": "PHENOLOGY_d05ec9369477",
+      "type": "phenology",
+      "name": "蛰虫咸俯"
+    },
+    {
+      "id": "CUSTOM_fec8396ea4f9",
+      "type": "custom",
+      "name": "赏菊"
+    },
+    {
+      "id": "CUSTOM_e95e37fb41b0",
+      "type": "custom",
+      "name": "登高"
+    },
+    {
+      "id": "CUSTOM_f6dc3f478b55",
+      "type": "custom",
+      "name": "送芋鬼"
+    },
+    {
+      "id": "CUSTOM_5840b928be2f",
+      "type": "custom",
+      "name": "迎霜"
+    },
+    {
+      "id": "FOOD_dd3550e396b8",
+      "type": "food",
+      "name": "柿子"
+    },
+    {
+      "id": "FOOD_15434cd49c99",
+      "type": "food",
+      "name": "鸭肉"
+    },
+    {
+      "id": "FOOD_728bf26a6e55",
+      "type": "food",
+      "name": "牛肉"
+    },
+    {
+      "id": "FOOD_5e904c833ce1",
+      "type": "food",
+      "name": "打芋煲"
+    },
+    {
+      "id": "ST19",
+      "type": "solar_term",
+      "name": "立冬",
+      "season": "冬"
+    },
+    {
+      "id": "PHENOLOGY_0d1bbb2d3689",
+      "type": "phenology",
+      "name": "水始冰"
+    },
+    {
+      "id": "PHENOLOGY_bf31e2354cc7",
+      "type": "phenology",
+      "name": "地始冻"
+    },
+    {
+      "id": "PHENOLOGY_802fe3e122d9",
+      "type": "phenology",
+      "name": "雉入大水为蜃"
+    },
+    {
+      "id": "CUSTOM_3e6a64d19e80",
+      "type": "custom",
+      "name": "迎冬"
+    },
+    {
+      "id": "CUSTOM_6ea428deb6bf",
+      "type": "custom",
+      "name": "冬泳"
+    },
+    {
+      "id": "CUSTOM_dadf7453bd06",
+      "type": "custom",
+      "name": "补冬"
+    },
+    {
+      "id": "CUSTOM_659232f070c1",
+      "type": "custom",
+      "name": "猫冬"
+    },
+    {
+      "id": "FOOD_3e23f02f77fc",
+      "type": "food",
+      "name": "饺子"
+    },
+    {
+      "id": "FOOD_a7f4f8076694",
+      "type": "food",
+      "name": "麻油鸡"
+    },
+    {
+      "id": "FOOD_4e303a9c6a9f",
+      "type": "food",
+      "name": "四物鸡"
+    },
+    {
+      "id": "FOOD_02fdde7a4113",
+      "type": "food",
+      "name": "羊肉炉"
+    },
+    {
+      "id": "FOOD_a1b450fd68e6",
+      "type": "food",
+      "name": "姜母鸭"
+    },
+    {
+      "id": "ST20",
+      "type": "solar_term",
+      "name": "小雪",
+      "season": "冬"
+    },
+    {
+      "id": "PHENOLOGY_4ca1e9abb052",
+      "type": "phenology",
+      "name": "虹藏不见"
+    },
+    {
+      "id": "PHENOLOGY_7e65293cef66",
+      "type": "phenology",
+      "name": "天气上升地气下降"
+    },
+    {
+      "id": "PHENOLOGY_76e20e173873",
+      "type": "phenology",
+      "name": "闭塞而成冬"
+    },
+    {
+      "id": "CUSTOM_ab7e000a8148",
+      "type": "custom",
+      "name": "吃糍粑"
+    },
+    {
+      "id": "CUSTOM_0d203ac189ee",
+      "type": "custom",
+      "name": "腌腊肉"
+    },
+    {
+      "id": "CUSTOM_8939ef5a6efe",
+      "type": "custom",
+      "name": "晒鱼干"
+    },
+    {
+      "id": "CUSTOM_21b829c3bc0f",
+      "type": "custom",
+      "name": "吃刨汤"
+    },
+    {
+      "id": "FOOD_836573be08d9",
+      "type": "food",
+      "name": "糍粑"
+    },
+    {
+      "id": "FOOD_05e441edc9d9",
+      "type": "food",
+      "name": "腊肉"
+    },
+    {
+      "id": "FOOD_d60765af4e0e",
+      "type": "food",
+      "name": "香肠"
+    },
+    {
+      "id": "FOOD_d0c6a6357eec",
+      "type": "food",
+      "name": "鱼干"
+    },
+    {
+      "id": "FOOD_d1ffe82853ae",
+      "type": "food",
+      "name": "刨汤"
+    },
+    {
+      "id": "POEM_c298078308a1",
+      "type": "poem",
+      "name": "苏轼《赠刘景文》",
+      "quote": "一年好景君须记，正是橙黄橘绿时"
+    },
+    {
+      "id": "ST21",
+      "type": "solar_term",
+      "name": "大雪",
+      "season": "冬"
+    },
+    {
+      "id": "PHENOLOGY_61befe5d4ecf",
+      "type": "phenology",
+      "name": "鹖鴠不鸣"
+    },
+    {
+      "id": "PHENOLOGY_e96120983e2f",
+      "type": "phenology",
+      "name": "虎始交"
+    },
+    {
+      "id": "PHENOLOGY_4c702beebf25",
+      "type": "phenology",
+      "name": "荔挺出"
+    },
+    {
+      "id": "CUSTOM_286cc54f73a8",
+      "type": "custom",
+      "name": "腌肉"
+    },
+    {
+      "id": "CUSTOM_fa108ccc6858",
+      "type": "custom",
+      "name": "腌雪菜"
+    },
+    {
+      "id": "CUSTOM_569f2b5bf3a1",
+      "type": "custom",
+      "name": "观赏封河"
+    },
+    {
+      "id": "CUSTOM_a2b065aa7488",
+      "type": "custom",
+      "name": "捕乌鱼"
+    },
+    {
+      "id": "FOOD_a07bc41e900c",
+      "type": "food",
+      "name": "咸肉腊味"
+    },
+    {
+      "id": "FOOD_a2df0d957fd6",
+      "type": "food",
+      "name": "雪菜面"
+    },
+    {
+      "id": "FOOD_b345091e9643",
+      "type": "food",
+      "name": "雪菜豆腐"
+    },
+    {
+      "id": "FOOD_a3811eeb7bd1",
+      "type": "food",
+      "name": "姜枣茶"
+    },
+    {
+      "id": "ST22",
+      "type": "solar_term",
+      "name": "冬至",
+      "season": "冬"
+    },
+    {
+      "id": "PHENOLOGY_ff64ce0b2e3d",
+      "type": "phenology",
+      "name": "蚯蚓结"
+    },
+    {
+      "id": "PHENOLOGY_ff4901f56cde",
+      "type": "phenology",
+      "name": "麋角解"
+    },
+    {
+      "id": "PHENOLOGY_875a1ee9438e",
+      "type": "phenology",
+      "name": "水泉动"
+    },
+    {
+      "id": "CUSTOM_a43343584a1a",
+      "type": "custom",
+      "name": "祭天祭祖"
+    },
+    {
+      "id": "CUSTOM_262a39895a8b",
+      "type": "custom",
+      "name": "贺冬"
+    },
+    {
+      "id": "CUSTOM_c6f3c900cf6a",
+      "type": "custom",
+      "name": "九九消寒图"
+    },
+    {
+      "id": "CUSTOM_71cc43cc979d",
+      "type": "custom",
+      "name": "数九"
+    },
+    {
+      "id": "FOOD_160e3cc99d42",
+      "type": "food",
+      "name": "赤豆糯米饭"
+    },
+    {
+      "id": "FOOD_d2d3a0891734",
+      "type": "food",
+      "name": "冬酿酒"
+    },
+    {
+      "id": "FOOD_0fd78418bc3b",
+      "type": "food",
+      "name": "羊肉汤"
+    },
+    {
+      "id": "POEM_76667a9179aa",
+      "type": "poem",
+      "name": "杜甫《小至》",
+      "quote": "天时人事日相催，冬至阳生春又来"
+    },
+    {
+      "id": "ST23",
+      "type": "solar_term",
+      "name": "小寒",
+      "season": "冬"
+    },
+    {
+      "id": "PHENOLOGY_13d620aaf582",
+      "type": "phenology",
+      "name": "雁北乡"
+    },
+    {
+      "id": "PHENOLOGY_7a6d89ec4dd8",
+      "type": "phenology",
+      "name": "鹊始巢"
+    },
+    {
+      "id": "PHENOLOGY_5d9ef6cd557b",
+      "type": "phenology",
+      "name": "雉始雊"
+    },
+    {
+      "id": "CUSTOM_38bc4fd5cb43",
+      "type": "custom",
+      "name": "探梅"
+    },
+    {
+      "id": "CUSTOM_de92593d3bbb",
+      "type": "custom",
+      "name": "冰嬉"
+    },
+    {
+      "id": "CUSTOM_dd5fcca67761",
+      "type": "custom",
+      "name": "写春联剪窗花备年"
+    },
+    {
+      "id": "CUSTOM_4dbb92a51710",
+      "type": "custom",
+      "name": "吃黄芽菜"
+    },
+    {
+      "id": "CUSTOM_ce2ba604dc93",
+      "type": "custom",
+      "name": "吃菜饭"
+    },
+    {
+      "id": "CUSTOM_3e9853439803",
+      "type": "custom",
+      "name": "吃糯米饭"
+    },
+    {
+      "id": "FOOD_7181bfc42492",
+      "type": "food",
+      "name": "黄芽菜"
+    },
+    {
+      "id": "FOOD_18c50702ee81",
+      "type": "food",
+      "name": "菜饭"
+    },
+    {
+      "id": "FOOD_8431ab64a37b",
+      "type": "food",
+      "name": "糯米饭"
+    },
+    {
+      "id": "FOOD_cbef9b1afa3e",
+      "type": "food",
+      "name": "涮羊肉"
+    },
+    {
+      "id": "FOOD_fc0c0750e541",
+      "type": "food",
+      "name": "糖炒栗子"
+    },
+    {
+      "id": "FOOD_290a715e10ef",
+      "type": "food",
+      "name": "烤白薯"
+    },
+    {
+      "id": "ST24",
+      "type": "solar_term",
+      "name": "大寒",
+      "season": "冬"
+    },
+    {
+      "id": "PHENOLOGY_af8b78400fb8",
+      "type": "phenology",
+      "name": "鸡乳"
+    },
+    {
+      "id": "PHENOLOGY_3555d7f00440",
+      "type": "phenology",
+      "name": "征鸟厉疾"
+    },
+    {
+      "id": "PHENOLOGY_634bf6b47ba3",
+      "type": "phenology",
+      "name": "水泽腹坚"
+    },
+    {
+      "id": "CUSTOM_7ceb1dffd174",
+      "type": "custom",
+      "name": "尾牙祭"
+    },
+    {
+      "id": "CUSTOM_1cab940ad582",
+      "type": "custom",
+      "name": "腊八"
+    },
+    {
+      "id": "CUSTOM_f65399962394",
+      "type": "custom",
+      "name": "除旧布新备年货"
+    },
+    {
+      "id": "CUSTOM_e3f08c11cd18",
+      "type": "custom",
+      "name": "岭南捉田鼠"
+    },
+    {
+      "id": "FOOD_e446c61858ec",
+      "type": "food",
+      "name": "腊八粥"
+    },
+    {
+      "id": "FOOD_37c17e4effb5",
+      "type": "food",
+      "name": "消寒糕"
+    },
+    {
+      "id": "FOOD_2206e0977b71",
+      "type": "food",
+      "name": "炸春卷"
+    },
+    {
+      "id": "FOOD_b1ccf3cbf4b5",
+      "type": "food",
+      "name": "炖鸡汤"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0001",
+      "from": "ST01",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_0d158cd2d166",
+      "source_record": "立春",
+      "source_field": "phenology",
+      "source_value": "一候东风解冻",
+      "source_url": "https://www.ihchina.cn/solar_details/40.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候东风解冻"
+    },
+    {
+      "id": "R0002",
+      "from": "ST01",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_5dad38258c06",
+      "source_record": "立春",
+      "source_field": "phenology",
+      "source_value": "二候蛰虫始振",
+      "source_url": "https://www.ihchina.cn/solar_details/40.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候蛰虫始振"
+    },
+    {
+      "id": "R0003",
+      "from": "ST01",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_d4bb5761318d",
+      "source_record": "立春",
+      "source_field": "phenology",
+      "source_value": "三候鱼陟负冰",
+      "source_url": "https://www.ihchina.cn/solar_details/40.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候鱼陟负冰"
+    },
+    {
+      "id": "R0004",
+      "from": "ST01",
+      "type": "has_custom",
+      "to": "CUSTOM_f9040b581940",
+      "source_record": "立春",
+      "source_field": "custom",
+      "source_value": "迎春（演春）",
+      "source_url": "https://www.ihchina.cn/solar_details/40.html",
+      "source_scope": "solar_term_record",
+      "display_text": "迎春（演春）"
+    },
+    {
+      "id": "R0005",
+      "from": "ST01",
+      "type": "has_custom",
+      "to": "CUSTOM_b83ffe9a263a",
+      "source_record": "立春",
+      "source_field": "custom",
+      "source_value": "鞭春牛（打春）",
+      "source_url": "https://www.ihchina.cn/solar_details/40.html",
+      "source_scope": "solar_term_record",
+      "display_text": "鞭春牛（打春）"
+    },
+    {
+      "id": "R0006",
+      "from": "ST01",
+      "type": "has_custom",
+      "to": "CUSTOM_79f01937c9dd",
+      "source_record": "立春",
+      "source_field": "custom",
+      "source_value": "说春",
+      "source_url": "https://www.ihchina.cn/solar_details/40.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0007",
+      "from": "ST01",
+      "type": "has_custom",
+      "to": "CUSTOM_6509c9b1d499",
+      "source_record": "立春",
+      "source_field": "custom",
+      "source_value": "戴春鸡",
+      "source_url": "https://www.ihchina.cn/solar_details/40.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0008",
+      "from": "ST01",
+      "type": "has_custom",
+      "to": "CUSTOM_afb74fda8821",
+      "source_record": "立春",
+      "source_field": "custom",
+      "source_value": "佩燕子",
+      "source_url": "https://www.ihchina.cn/solar_details/40.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0009",
+      "from": "ST01",
+      "type": "has_food",
+      "to": "FOOD_3218306a74da",
+      "source_record": "立春",
+      "source_field": "food",
+      "source_value": "咬春：春盘、春饼、春卷、萝卜",
+      "source_url": "https://www.ihchina.cn/solar_details/40.html",
+      "source_scope": "solar_term_record",
+      "display_text": "咬春：春盘、春饼、春卷、萝卜"
+    },
+    {
+      "id": "R0010",
+      "from": "ST01",
+      "type": "has_food",
+      "to": "FOOD_ad4fc0d28d4c",
+      "source_record": "立春",
+      "source_field": "food",
+      "source_value": "咬春：春盘、春饼、春卷、萝卜",
+      "source_url": "https://www.ihchina.cn/solar_details/40.html",
+      "source_scope": "solar_term_record",
+      "display_text": "咬春：春盘、春饼、春卷、萝卜"
+    },
+    {
+      "id": "R0011",
+      "from": "ST01",
+      "type": "has_food",
+      "to": "FOOD_e8dd702cdb5f",
+      "source_record": "立春",
+      "source_field": "food",
+      "source_value": "咬春：春盘、春饼、春卷、萝卜",
+      "source_url": "https://www.ihchina.cn/solar_details/40.html",
+      "source_scope": "solar_term_record",
+      "display_text": "咬春：春盘、春饼、春卷、萝卜"
+    },
+    {
+      "id": "R0012",
+      "from": "ST01",
+      "type": "has_food",
+      "to": "FOOD_5b449897b61f",
+      "source_record": "立春",
+      "source_field": "food",
+      "source_value": "咬春：春盘、春饼、春卷、萝卜",
+      "source_url": "https://www.ihchina.cn/solar_details/40.html",
+      "source_scope": "solar_term_record",
+      "display_text": "咬春：春盘、春饼、春卷、萝卜"
+    },
+    {
+      "id": "R0013",
+      "from": "ST01",
+      "type": "has_poem",
+      "to": "POEM_4aeb4bbdd8d1",
+      "source_record": "立春",
+      "source_field": "poem",
+      "source_value": "张栻《立春偶成》：律回岁晚冰霜少，春到人间草木知",
+      "source_url": "https://www.ihchina.cn/solar_details/40.html",
+      "source_scope": "solar_term_record",
+      "display_text": "张栻《立春偶成》：律回岁晚冰霜少，春到人间草木知",
+      "relation_note": "来源文章中的相关诗词引用"
+    },
+    {
+      "id": "R0014",
+      "from": "ST02",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_e9994d56cd1c",
+      "source_record": "雨水",
+      "source_field": "phenology",
+      "source_value": "一候獭祭鱼",
+      "source_url": "https://www.ihchina.cn/solar_details/41.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候獭祭鱼"
+    },
+    {
+      "id": "R0015",
+      "from": "ST02",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_3109e590b8da",
+      "source_record": "雨水",
+      "source_field": "phenology",
+      "source_value": "二候鸿雁来",
+      "source_url": "https://www.ihchina.cn/solar_details/41.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候鸿雁来"
+    },
+    {
+      "id": "R0016",
+      "from": "ST02",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_f7c6e6ab14a7",
+      "source_record": "雨水",
+      "source_field": "phenology",
+      "source_value": "三候草木萌动",
+      "source_url": "https://www.ihchina.cn/solar_details/41.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候草木萌动"
+    },
+    {
+      "id": "R0017",
+      "from": "ST02",
+      "type": "has_custom",
+      "to": "CUSTOM_f547d2c71d28",
+      "source_record": "雨水",
+      "source_field": "custom",
+      "source_value": "回娘家",
+      "source_url": "https://www.ihchina.cn/solar_details/41.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0018",
+      "from": "ST02",
+      "type": "has_custom",
+      "to": "CUSTOM_febce78610a4",
+      "source_record": "雨水",
+      "source_field": "custom",
+      "source_value": "接寿",
+      "source_url": "https://www.ihchina.cn/solar_details/41.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0019",
+      "from": "ST02",
+      "type": "has_custom",
+      "to": "CUSTOM_9f90d5b4d67f",
+      "source_record": "雨水",
+      "source_field": "custom",
+      "source_value": "拉保保",
+      "source_url": "https://www.ihchina.cn/solar_details/41.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0020",
+      "from": "ST02",
+      "type": "has_food",
+      "to": "FOOD_94efa2cba9ee",
+      "source_record": "雨水",
+      "source_field": "food",
+      "source_value": "罐罐肉、猪脚鸡汤（接寿礼）",
+      "source_url": "https://www.ihchina.cn/solar_details/41.html",
+      "source_scope": "solar_term_record",
+      "display_text": "罐罐肉、猪脚鸡汤（接寿礼）"
+    },
+    {
+      "id": "R0021",
+      "from": "ST02",
+      "type": "has_food",
+      "to": "FOOD_0aab47358192",
+      "source_record": "雨水",
+      "source_field": "food",
+      "source_value": "罐罐肉、猪脚鸡汤（接寿礼）",
+      "source_url": "https://www.ihchina.cn/solar_details/41.html",
+      "source_scope": "solar_term_record",
+      "display_text": "罐罐肉、猪脚鸡汤（接寿礼）"
+    },
+    {
+      "id": "R0022",
+      "from": "ST02",
+      "type": "has_poem",
+      "to": "POEM_16d9e92778cc",
+      "source_record": "雨水",
+      "source_field": "poem",
+      "source_value": "杜甫《春夜喜雨》：好雨知时节，当春乃发生",
+      "source_url": "https://www.ihchina.cn/solar_details/41.html",
+      "source_scope": "solar_term_record",
+      "display_text": "杜甫《春夜喜雨》：好雨知时节，当春乃发生",
+      "relation_note": "来源文章中的相关诗词引用"
+    },
+    {
+      "id": "R0023",
+      "from": "ST03",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_00f873025232",
+      "source_record": "惊蛰",
+      "source_field": "phenology",
+      "source_value": "一候桃始华",
+      "source_url": "https://www.ihchina.cn/solar_details/42.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候桃始华"
+    },
+    {
+      "id": "R0024",
+      "from": "ST03",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_7fcfe6c288f6",
+      "source_record": "惊蛰",
+      "source_field": "phenology",
+      "source_value": "二候仓庚鸣",
+      "source_url": "https://www.ihchina.cn/solar_details/42.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候仓庚鸣"
+    },
+    {
+      "id": "R0025",
+      "from": "ST03",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_f4a4ce93d950",
+      "source_record": "惊蛰",
+      "source_field": "phenology",
+      "source_value": "三候鹰化为鸠",
+      "source_url": "https://www.ihchina.cn/solar_details/42.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候鹰化为鸠"
+    },
+    {
+      "id": "R0026",
+      "from": "ST03",
+      "type": "has_custom",
+      "to": "CUSTOM_fc91401706b9",
+      "source_record": "惊蛰",
+      "source_field": "custom",
+      "source_value": "蒙鼓皮",
+      "source_url": "https://www.ihchina.cn/solar_details/42.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0027",
+      "from": "ST03",
+      "type": "has_custom",
+      "to": "CUSTOM_829736c8f801",
+      "source_record": "惊蛰",
+      "source_field": "custom",
+      "source_value": "祭白虎",
+      "source_url": "https://www.ihchina.cn/solar_details/42.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0028",
+      "from": "ST03",
+      "type": "has_custom",
+      "to": "CUSTOM_42620e1aff1c",
+      "source_record": "惊蛰",
+      "source_field": "custom",
+      "source_value": "扫虫节（宁波）",
+      "source_url": "https://www.ihchina.cn/solar_details/42.html",
+      "source_scope": "solar_term_record",
+      "display_text": "扫虫节（宁波）"
+    },
+    {
+      "id": "R0029",
+      "from": "ST03",
+      "type": "has_custom",
+      "to": "CUSTOM_4db55956c843",
+      "source_record": "惊蛰",
+      "source_field": "custom",
+      "source_value": "炒虫（闽西、赣南客家）",
+      "source_url": "https://www.ihchina.cn/solar_details/42.html",
+      "source_scope": "solar_term_record",
+      "display_text": "炒虫（闽西、赣南客家）"
+    },
+    {
+      "id": "R0030",
+      "from": "ST03",
+      "type": "has_food",
+      "to": "FOOD_792918a05a59",
+      "source_record": "惊蛰",
+      "source_field": "food",
+      "source_value": "吃梨",
+      "source_url": "https://www.ihchina.cn/solar_details/42.html",
+      "source_scope": "solar_term_record",
+      "display_text": "吃梨"
+    },
+    {
+      "id": "R0031",
+      "from": "ST03",
+      "type": "has_food",
+      "to": "FOOD_903a2468bb99",
+      "source_record": "惊蛰",
+      "source_field": "food",
+      "source_value": "炒豆、炒米谷",
+      "source_url": "https://www.ihchina.cn/solar_details/42.html",
+      "source_scope": "solar_term_record",
+      "display_text": "炒豆、炒米谷"
+    },
+    {
+      "id": "R0032",
+      "from": "ST03",
+      "type": "has_food",
+      "to": "FOOD_1777a6fcebda",
+      "source_record": "惊蛰",
+      "source_field": "food",
+      "source_value": "炒豆、炒米谷",
+      "source_url": "https://www.ihchina.cn/solar_details/42.html",
+      "source_scope": "solar_term_record",
+      "display_text": "炒豆、炒米谷"
+    },
+    {
+      "id": "R0033",
+      "from": "ST03",
+      "type": "has_poem",
+      "to": "POEM_375fda2259ba",
+      "source_record": "惊蛰",
+      "source_field": "poem",
+      "source_value": "韦应物《观田家》：微雨众卉新，一雷惊蛰始",
+      "source_url": "https://www.ihchina.cn/solar_details/42.html",
+      "source_scope": "solar_term_record",
+      "display_text": "韦应物《观田家》：微雨众卉新，一雷惊蛰始",
+      "relation_note": "来源文章中的相关诗词引用"
+    },
+    {
+      "id": "R0034",
+      "from": "ST04",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_f623c7e6cc92",
+      "source_record": "春分",
+      "source_field": "phenology",
+      "source_value": "一候玄鸟至",
+      "source_url": "https://www.ihchina.cn/solar_details/43.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候玄鸟至"
+    },
+    {
+      "id": "R0035",
+      "from": "ST04",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_892ddb80afa1",
+      "source_record": "春分",
+      "source_field": "phenology",
+      "source_value": "二候雷乃发声",
+      "source_url": "https://www.ihchina.cn/solar_details/43.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候雷乃发声"
+    },
+    {
+      "id": "R0036",
+      "from": "ST04",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_86497c9ceb91",
+      "source_record": "春分",
+      "source_field": "phenology",
+      "source_value": "三候始电",
+      "source_url": "https://www.ihchina.cn/solar_details/43.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候始电"
+    },
+    {
+      "id": "R0037",
+      "from": "ST04",
+      "type": "has_custom",
+      "to": "CUSTOM_cdab3852d6ad",
+      "source_record": "春分",
+      "source_field": "custom",
+      "source_value": "祭日（北京日坛）",
+      "source_url": "https://www.ihchina.cn/solar_details/43.html",
+      "source_scope": "solar_term_record",
+      "display_text": "祭日（北京日坛）"
+    },
+    {
+      "id": "R0038",
+      "from": "ST04",
+      "type": "has_custom",
+      "to": "CUSTOM_90a481268ad7",
+      "source_record": "春分",
+      "source_field": "custom",
+      "source_value": "祭祖春祭",
+      "source_url": "https://www.ihchina.cn/solar_details/43.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0039",
+      "from": "ST04",
+      "type": "has_custom",
+      "to": "CUSTOM_5385355bb2b5",
+      "source_record": "春分",
+      "source_field": "custom",
+      "source_value": "放风筝",
+      "source_url": "https://www.ihchina.cn/solar_details/43.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0040",
+      "from": "ST04",
+      "type": "has_custom",
+      "to": "CUSTOM_9e1b5ca69bce",
+      "source_record": "春分",
+      "source_field": "custom",
+      "source_value": "竖蛋",
+      "source_url": "https://www.ihchina.cn/solar_details/43.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0041",
+      "from": "ST04",
+      "type": "has_custom",
+      "to": "CUSTOM_0de3536f4292",
+      "source_record": "春分",
+      "source_field": "custom",
+      "source_value": "送春牛",
+      "source_url": "https://www.ihchina.cn/solar_details/43.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0042",
+      "from": "ST04",
+      "type": "has_custom",
+      "to": "CUSTOM_1a43cc1d9a35",
+      "source_record": "春分",
+      "source_field": "custom",
+      "source_value": "粘雀子嘴",
+      "source_url": "https://www.ihchina.cn/solar_details/43.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0043",
+      "from": "ST04",
+      "type": "has_custom",
+      "to": "CUSTOM_48e789079417",
+      "source_record": "春分",
+      "source_field": "custom",
+      "source_value": "犒劳耕牛",
+      "source_url": "https://www.ihchina.cn/solar_details/43.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0044",
+      "from": "ST04",
+      "type": "has_food",
+      "to": "FOOD_d787717b91f0",
+      "source_record": "春分",
+      "source_field": "food",
+      "source_value": "春菜滚汤（岭南野苋菜）",
+      "source_url": "https://www.ihchina.cn/solar_details/43.html",
+      "source_scope": "solar_term_record",
+      "display_text": "春菜滚汤（岭南野苋菜）"
+    },
+    {
+      "id": "R0045",
+      "from": "ST04",
+      "type": "has_food",
+      "to": "FOOD_2667f4630b04",
+      "source_record": "春分",
+      "source_field": "food",
+      "source_value": "汤圆",
+      "source_url": "https://www.ihchina.cn/solar_details/43.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0046",
+      "from": "ST05",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_243061ea77e9",
+      "source_record": "清明",
+      "source_field": "phenology",
+      "source_value": "一候桐始华",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候桐始华"
+    },
+    {
+      "id": "R0047",
+      "from": "ST05",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_082340699d68",
+      "source_record": "清明",
+      "source_field": "phenology",
+      "source_value": "二候田鼠化为鴽",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候田鼠化为鴽"
+    },
+    {
+      "id": "R0048",
+      "from": "ST05",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_e228b011ad3d",
+      "source_record": "清明",
+      "source_field": "phenology",
+      "source_value": "三候虹始见",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候虹始见"
+    },
+    {
+      "id": "R0049",
+      "from": "ST05",
+      "type": "has_custom",
+      "to": "CUSTOM_e180f95212f2",
+      "source_record": "清明",
+      "source_field": "custom",
+      "source_value": "扫墓",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0050",
+      "from": "ST05",
+      "type": "has_custom",
+      "to": "CUSTOM_b3578f24a52e",
+      "source_record": "清明",
+      "source_field": "custom",
+      "source_value": "踏青",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0051",
+      "from": "ST05",
+      "type": "has_custom",
+      "to": "CUSTOM_dbac2142532b",
+      "source_record": "清明",
+      "source_field": "custom",
+      "source_value": "荡秋千",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0052",
+      "from": "ST05",
+      "type": "has_custom",
+      "to": "CUSTOM_3a4f1141ce50",
+      "source_record": "清明",
+      "source_field": "custom",
+      "source_value": "蹴鞠",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0053",
+      "from": "ST05",
+      "type": "has_custom",
+      "to": "CUSTOM_f8f5ce83ae7a",
+      "source_record": "清明",
+      "source_field": "custom",
+      "source_value": "植树戴柳",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0054",
+      "from": "ST05",
+      "type": "has_custom",
+      "to": "CUSTOM_5385355bb2b5",
+      "source_record": "清明",
+      "source_field": "custom",
+      "source_value": "放风筝",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0055",
+      "from": "ST05",
+      "type": "has_food",
+      "to": "FOOD_ab812741579d",
+      "source_record": "清明",
+      "source_field": "food",
+      "source_value": "青团（上海）",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record",
+      "display_text": "青团（上海）"
+    },
+    {
+      "id": "R0056",
+      "from": "ST05",
+      "type": "has_food",
+      "to": "FOOD_0ece7b3dc40f",
+      "source_record": "清明",
+      "source_field": "food",
+      "source_value": "子福（晋南）",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record",
+      "display_text": "子福（晋南）"
+    },
+    {
+      "id": "R0057",
+      "from": "ST05",
+      "type": "has_food",
+      "to": "FOOD_7293d7867503",
+      "source_record": "清明",
+      "source_field": "food",
+      "source_value": "清明粽、炒螺蛳（湖州）",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record",
+      "display_text": "清明粽、炒螺蛳（湖州）"
+    },
+    {
+      "id": "R0058",
+      "from": "ST05",
+      "type": "has_food",
+      "to": "FOOD_5e6a8ef8e4df",
+      "source_record": "清明",
+      "source_field": "food",
+      "source_value": "清明粽、炒螺蛳（湖州）",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record",
+      "display_text": "清明粽、炒螺蛳（湖州）"
+    },
+    {
+      "id": "R0059",
+      "from": "ST05",
+      "type": "has_food",
+      "to": "FOOD_df330ff14c2e",
+      "source_record": "清明",
+      "source_field": "food",
+      "source_value": "冷饽饽、冷高粱米饭（山东）",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record",
+      "display_text": "冷饽饽、冷高粱米饭（山东）"
+    },
+    {
+      "id": "R0060",
+      "from": "ST05",
+      "type": "has_food",
+      "to": "FOOD_59f9299f2661",
+      "source_record": "清明",
+      "source_field": "food",
+      "source_value": "冷饽饽、冷高粱米饭（山东）",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record",
+      "display_text": "冷饽饽、冷高粱米饭（山东）"
+    },
+    {
+      "id": "R0061",
+      "from": "ST05",
+      "type": "has_poem",
+      "to": "POEM_8165d804e11a",
+      "source_record": "清明",
+      "source_field": "poem",
+      "source_value": "晏殊《破阵子》：燕子来时新社，梨花落后清明",
+      "source_url": "https://www.ihchina.cn/solar_details/44.html",
+      "source_scope": "solar_term_record",
+      "display_text": "晏殊《破阵子》：燕子来时新社，梨花落后清明",
+      "relation_note": "来源文章中的相关诗词引用"
+    },
+    {
+      "id": "R0062",
+      "from": "ST06",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_701ec1bc6c36",
+      "source_record": "谷雨",
+      "source_field": "phenology",
+      "source_value": "一候萍始生",
+      "source_url": "https://www.ihchina.cn/solar_details/45.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候萍始生"
+    },
+    {
+      "id": "R0063",
+      "from": "ST06",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_1d8eaf60e4e8",
+      "source_record": "谷雨",
+      "source_field": "phenology",
+      "source_value": "二候鸣鸠拂其羽",
+      "source_url": "https://www.ihchina.cn/solar_details/45.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候鸣鸠拂其羽"
+    },
+    {
+      "id": "R0064",
+      "from": "ST06",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_1abfa9ec9851",
+      "source_record": "谷雨",
+      "source_field": "phenology",
+      "source_value": "三候戴胜降于桑",
+      "source_url": "https://www.ihchina.cn/solar_details/45.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候戴胜降于桑"
+    },
+    {
+      "id": "R0065",
+      "from": "ST06",
+      "type": "has_custom",
+      "to": "CUSTOM_e8eaca51b211",
+      "source_record": "谷雨",
+      "source_field": "custom",
+      "source_value": "谷雨摘茶",
+      "source_url": "https://www.ihchina.cn/solar_details/45.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0066",
+      "from": "ST06",
+      "type": "has_custom",
+      "to": "CUSTOM_b58282ab1093",
+      "source_record": "谷雨",
+      "source_field": "custom",
+      "source_value": "食香椿",
+      "source_url": "https://www.ihchina.cn/solar_details/45.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0067",
+      "from": "ST06",
+      "type": "has_custom",
+      "to": "CUSTOM_f3a71304c631",
+      "source_record": "谷雨",
+      "source_field": "custom",
+      "source_value": "侗寨谷雨节",
+      "source_url": "https://www.ihchina.cn/solar_details/45.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0068",
+      "from": "ST06",
+      "type": "has_custom",
+      "to": "CUSTOM_c1b795782e34",
+      "source_record": "谷雨",
+      "source_field": "custom",
+      "source_value": "渔民节（山东荣成祭海）",
+      "source_url": "https://www.ihchina.cn/solar_details/45.html",
+      "source_scope": "solar_term_record",
+      "display_text": "渔民节（山东荣成祭海）"
+    },
+    {
+      "id": "R0069",
+      "from": "ST06",
+      "type": "has_custom",
+      "to": "CUSTOM_aed6fa42888d",
+      "source_record": "谷雨",
+      "source_field": "custom",
+      "source_value": "禁蝎",
+      "source_url": "https://www.ihchina.cn/solar_details/45.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0070",
+      "from": "ST06",
+      "type": "has_custom",
+      "to": "CUSTOM_67ca4659f26e",
+      "source_record": "谷雨",
+      "source_field": "custom",
+      "source_value": "祭仓颉",
+      "source_url": "https://www.ihchina.cn/solar_details/45.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0071",
+      "from": "ST06",
+      "type": "has_food",
+      "to": "FOOD_0b1be1a6aa9d",
+      "source_record": "谷雨",
+      "source_field": "food",
+      "source_value": "谷雨茶（雨前茶）",
+      "source_url": "https://www.ihchina.cn/solar_details/45.html",
+      "source_scope": "solar_term_record",
+      "display_text": "谷雨茶（雨前茶）"
+    },
+    {
+      "id": "R0072",
+      "from": "ST06",
+      "type": "has_food",
+      "to": "FOOD_725fc2d921f8",
+      "source_record": "谷雨",
+      "source_field": "food",
+      "source_value": "香椿",
+      "source_url": "https://www.ihchina.cn/solar_details/45.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0073",
+      "from": "ST06",
+      "type": "has_food",
+      "to": "FOOD_5b25f679acb8",
+      "source_record": "谷雨",
+      "source_field": "food",
+      "source_value": "乌米饭（肇兴侗寨）",
+      "source_url": "https://www.ihchina.cn/solar_details/45.html",
+      "source_scope": "solar_term_record",
+      "display_text": "乌米饭（肇兴侗寨）"
+    },
+    {
+      "id": "R0074",
+      "from": "ST07",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_12b83b092358",
+      "source_record": "立夏",
+      "source_field": "phenology",
+      "source_value": "一候蝼蝈鸣",
+      "source_url": "https://www.ihchina.cn/solar_details/46.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候蝼蝈鸣"
+    },
+    {
+      "id": "R0075",
+      "from": "ST07",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_4d8714b95d5b",
+      "source_record": "立夏",
+      "source_field": "phenology",
+      "source_value": "二候蚯蚓出",
+      "source_url": "https://www.ihchina.cn/solar_details/46.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候蚯蚓出"
+    },
+    {
+      "id": "R0076",
+      "from": "ST07",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_e477044c6a42",
+      "source_record": "立夏",
+      "source_field": "phenology",
+      "source_value": "三候王瓜生",
+      "source_url": "https://www.ihchina.cn/solar_details/46.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候王瓜生"
+    },
+    {
+      "id": "R0077",
+      "from": "ST07",
+      "type": "has_custom",
+      "to": "CUSTOM_5d2144dd4387",
+      "source_record": "立夏",
+      "source_field": "custom",
+      "source_value": "迎夏仪式",
+      "source_url": "https://www.ihchina.cn/solar_details/46.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0078",
+      "from": "ST07",
+      "type": "has_custom",
+      "to": "CUSTOM_73389d748252",
+      "source_record": "立夏",
+      "source_field": "custom",
+      "source_value": "尝新（尝三新）",
+      "source_url": "https://www.ihchina.cn/solar_details/46.html",
+      "source_scope": "solar_term_record",
+      "display_text": "尝新（尝三新）"
+    },
+    {
+      "id": "R0079",
+      "from": "ST07",
+      "type": "has_custom",
+      "to": "CUSTOM_ed4989104e22",
+      "source_record": "立夏",
+      "source_field": "custom",
+      "source_value": "斗蛋",
+      "source_url": "https://www.ihchina.cn/solar_details/46.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0080",
+      "from": "ST07",
+      "type": "has_custom",
+      "to": "CUSTOM_f9f78f9075a0",
+      "source_record": "立夏",
+      "source_field": "custom",
+      "source_value": "立夏称人",
+      "source_url": "https://www.ihchina.cn/solar_details/46.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0081",
+      "from": "ST07",
+      "type": "has_food",
+      "to": "FOOD_f3efc3aab77f",
+      "source_record": "立夏",
+      "source_field": "food",
+      "source_value": "立夏蛋（鸡蛋、咸鸭蛋）",
+      "source_url": "https://www.ihchina.cn/solar_details/46.html",
+      "source_scope": "solar_term_record",
+      "display_text": "立夏蛋（鸡蛋、咸鸭蛋）"
+    },
+    {
+      "id": "R0082",
+      "from": "ST07",
+      "type": "has_food",
+      "to": "FOOD_85b5b1556493",
+      "source_record": "立夏",
+      "source_field": "food",
+      "source_value": "三新（樱桃、青梅、鲥鱼或麦子）",
+      "source_url": "https://www.ihchina.cn/solar_details/46.html",
+      "source_scope": "solar_term_record",
+      "display_text": "三新（樱桃、青梅、鲥鱼或麦子）"
+    },
+    {
+      "id": "R0083",
+      "from": "ST07",
+      "type": "has_food",
+      "to": "FOOD_d46af6461178",
+      "source_record": "立夏",
+      "source_field": "food",
+      "source_value": "三新（樱桃、青梅、鲥鱼或麦子）",
+      "source_url": "https://www.ihchina.cn/solar_details/46.html",
+      "source_scope": "solar_term_record",
+      "display_text": "三新（樱桃、青梅、鲥鱼或麦子）"
+    },
+    {
+      "id": "R0084",
+      "from": "ST07",
+      "type": "has_food",
+      "to": "FOOD_7db9de547669",
+      "source_record": "立夏",
+      "source_field": "food",
+      "source_value": "三新（樱桃、青梅、鲥鱼或麦子）",
+      "source_url": "https://www.ihchina.cn/solar_details/46.html",
+      "source_scope": "solar_term_record",
+      "display_text": "三新（樱桃、青梅、鲥鱼或麦子）"
+    },
+    {
+      "id": "R0085",
+      "from": "ST07",
+      "type": "has_food",
+      "to": "FOOD_0f0e6f6fc8bd",
+      "source_record": "立夏",
+      "source_field": "food",
+      "source_value": "三新（樱桃、青梅、鲥鱼或麦子）",
+      "source_url": "https://www.ihchina.cn/solar_details/46.html",
+      "source_scope": "solar_term_record",
+      "display_text": "三新（樱桃、青梅、鲥鱼或麦子）"
+    },
+    {
+      "id": "R0086",
+      "from": "ST07",
+      "type": "has_food",
+      "to": "FOOD_61a827e53bc4",
+      "source_record": "立夏",
+      "source_field": "food",
+      "source_value": "立夏饭",
+      "source_url": "https://www.ihchina.cn/solar_details/46.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0087",
+      "from": "ST08",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_d2954847bae2",
+      "source_record": "小满",
+      "source_field": "phenology",
+      "source_value": "一候苦菜秀",
+      "source_url": "https://www.ihchina.cn/solar_details/6968.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候苦菜秀"
+    },
+    {
+      "id": "R0088",
+      "from": "ST08",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_19abe16e73d6",
+      "source_record": "小满",
+      "source_field": "phenology",
+      "source_value": "二候靡草死",
+      "source_url": "https://www.ihchina.cn/solar_details/6968.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候靡草死"
+    },
+    {
+      "id": "R0089",
+      "from": "ST08",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_2e59079c41fc",
+      "source_record": "小满",
+      "source_field": "phenology",
+      "source_value": "三候麦秋至",
+      "source_url": "https://www.ihchina.cn/solar_details/6968.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候麦秋至"
+    },
+    {
+      "id": "R0090",
+      "from": "ST08",
+      "type": "has_custom",
+      "to": "CUSTOM_4693a80eedb9",
+      "source_record": "小满",
+      "source_field": "custom",
+      "source_value": "祭车神（小满动三车）",
+      "source_url": "https://www.ihchina.cn/solar_details/6968.html",
+      "source_scope": "solar_term_record",
+      "display_text": "祭车神（小满动三车）"
+    },
+    {
+      "id": "R0091",
+      "from": "ST08",
+      "type": "has_custom",
+      "to": "CUSTOM_d89d365756df",
+      "source_record": "小满",
+      "source_field": "custom",
+      "source_value": "抢水仪式（浙江海宁）",
+      "source_url": "https://www.ihchina.cn/solar_details/6968.html",
+      "source_scope": "solar_term_record",
+      "display_text": "抢水仪式（浙江海宁）"
+    },
+    {
+      "id": "R0092",
+      "from": "ST08",
+      "type": "has_custom",
+      "to": "CUSTOM_40231c5ade32",
+      "source_record": "小满",
+      "source_field": "custom",
+      "source_value": "祭蚕（江浙祈蚕节）",
+      "source_url": "https://www.ihchina.cn/solar_details/6968.html",
+      "source_scope": "solar_term_record",
+      "display_text": "祭蚕（江浙祈蚕节）"
+    },
+    {
+      "id": "R0093",
+      "from": "ST08",
+      "type": "has_food",
+      "to": "FOOD_34fe877f2a2f",
+      "source_record": "小满",
+      "source_field": "food",
+      "source_value": "苦菜（凉拌、做汤）",
+      "source_url": "https://www.ihchina.cn/solar_details/6968.html",
+      "source_scope": "solar_term_record",
+      "display_text": "苦菜（凉拌、做汤）"
+    },
+    {
+      "id": "R0094",
+      "from": "ST08",
+      "type": "has_food",
+      "to": "FOOD_0b9e2d92e377",
+      "source_record": "小满",
+      "source_field": "food",
+      "source_value": "麦仁",
+      "source_url": "https://www.ihchina.cn/solar_details/6968.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0095",
+      "from": "ST09",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_da47ee1db7d7",
+      "source_record": "芒种",
+      "source_field": "phenology",
+      "source_value": "一候螳螂生",
+      "source_url": "https://www.ihchina.cn/solar_details/6969.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候螳螂生"
+    },
+    {
+      "id": "R0096",
+      "from": "ST09",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_27ed1946ac02",
+      "source_record": "芒种",
+      "source_field": "phenology",
+      "source_value": "二候鵙始鸣",
+      "source_url": "https://www.ihchina.cn/solar_details/6969.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候鵙始鸣"
+    },
+    {
+      "id": "R0097",
+      "from": "ST09",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_dc6853e25152",
+      "source_record": "芒种",
+      "source_field": "phenology",
+      "source_value": "三候反舌无声",
+      "source_url": "https://www.ihchina.cn/solar_details/6969.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候反舌无声"
+    },
+    {
+      "id": "R0098",
+      "from": "ST09",
+      "type": "has_custom",
+      "to": "CUSTOM_feea81d4fc43",
+      "source_record": "芒种",
+      "source_field": "custom",
+      "source_value": "送花神",
+      "source_url": "https://www.ihchina.cn/solar_details/6969.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0099",
+      "from": "ST09",
+      "type": "has_custom",
+      "to": "CUSTOM_60e2f464ac43",
+      "source_record": "芒种",
+      "source_field": "custom",
+      "source_value": "安苗（皖南）",
+      "source_url": "https://www.ihchina.cn/solar_details/6969.html",
+      "source_scope": "solar_term_record",
+      "display_text": "安苗（皖南）"
+    },
+    {
+      "id": "R0100",
+      "from": "ST09",
+      "type": "has_custom",
+      "to": "CUSTOM_997a8e60fceb",
+      "source_record": "芒种",
+      "source_field": "custom",
+      "source_value": "打泥巴仗（贵州侗族）",
+      "source_url": "https://www.ihchina.cn/solar_details/6969.html",
+      "source_scope": "solar_term_record",
+      "display_text": "打泥巴仗（贵州侗族）"
+    },
+    {
+      "id": "R0101",
+      "from": "ST09",
+      "type": "has_custom",
+      "to": "CUSTOM_73f3d28fea90",
+      "source_record": "芒种",
+      "source_field": "custom",
+      "source_value": "煮梅",
+      "source_url": "https://www.ihchina.cn/solar_details/6969.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0102",
+      "from": "ST09",
+      "type": "has_food",
+      "to": "FOOD_2bde39b514ac",
+      "source_record": "芒种",
+      "source_field": "food",
+      "source_value": "煮梅（青梅）",
+      "source_url": "https://www.ihchina.cn/solar_details/6969.html",
+      "source_scope": "solar_term_record",
+      "display_text": "煮梅（青梅）"
+    },
+    {
+      "id": "R0103",
+      "from": "ST09",
+      "type": "has_food",
+      "to": "FOOD_27c62ee1509f",
+      "source_record": "芒种",
+      "source_field": "food",
+      "source_value": "新麦面食（安苗发包）",
+      "source_url": "https://www.ihchina.cn/solar_details/6969.html",
+      "source_scope": "solar_term_record",
+      "display_text": "新麦面食（安苗发包）"
+    },
+    {
+      "id": "R0104",
+      "from": "ST10",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_0f786391fafd",
+      "source_record": "夏至",
+      "source_field": "phenology",
+      "source_value": "一候鹿角解",
+      "source_url": "https://www.ihchina.cn/solar_details/6970.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候鹿角解"
+    },
+    {
+      "id": "R0105",
+      "from": "ST10",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_420965ac592a",
+      "source_record": "夏至",
+      "source_field": "phenology",
+      "source_value": "二候蝉始鸣",
+      "source_url": "https://www.ihchina.cn/solar_details/6970.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候蝉始鸣"
+    },
+    {
+      "id": "R0106",
+      "from": "ST10",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_8e1a35398952",
+      "source_record": "夏至",
+      "source_field": "phenology",
+      "source_value": "三候半夏生",
+      "source_url": "https://www.ihchina.cn/solar_details/6970.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候半夏生"
+    },
+    {
+      "id": "R0107",
+      "from": "ST10",
+      "type": "has_custom",
+      "to": "CUSTOM_d2c0b95abdf2",
+      "source_record": "夏至",
+      "source_field": "custom",
+      "source_value": "祭神祭祖（绍兴做夏至）",
+      "source_url": "https://www.ihchina.cn/solar_details/6970.html",
+      "source_scope": "solar_term_record",
+      "display_text": "祭神祭祖（绍兴做夏至）"
+    },
+    {
+      "id": "R0108",
+      "from": "ST10",
+      "type": "has_custom",
+      "to": "CUSTOM_80e8307073a2",
+      "source_record": "夏至",
+      "source_field": "custom",
+      "source_value": "称体重（无锡）",
+      "source_url": "https://www.ihchina.cn/solar_details/6970.html",
+      "source_scope": "solar_term_record",
+      "display_text": "称体重（无锡）"
+    },
+    {
+      "id": "R0109",
+      "from": "ST10",
+      "type": "has_custom",
+      "to": "CUSTOM_fe8df914fc95",
+      "source_record": "夏至",
+      "source_field": "custom",
+      "source_value": "观白夜极光（漠河）",
+      "source_url": "https://www.ihchina.cn/solar_details/6970.html",
+      "source_scope": "solar_term_record",
+      "display_text": "观白夜极光（漠河）"
+    },
+    {
+      "id": "R0110",
+      "from": "ST10",
+      "type": "has_food",
+      "to": "FOOD_ee71f0ead1f6",
+      "source_record": "夏至",
+      "source_field": "food",
+      "source_value": "夏至面（北京、山东过水面）",
+      "source_url": "https://www.ihchina.cn/solar_details/6970.html",
+      "source_scope": "solar_term_record",
+      "display_text": "夏至面（北京、山东过水面）"
+    },
+    {
+      "id": "R0111",
+      "from": "ST10",
+      "type": "has_food",
+      "to": "FOOD_b4e956a4bc57",
+      "source_record": "夏至",
+      "source_field": "food",
+      "source_value": "馄饨与麦粥（无锡）",
+      "source_url": "https://www.ihchina.cn/solar_details/6970.html",
+      "source_scope": "solar_term_record",
+      "display_text": "馄饨与麦粥（无锡）"
+    },
+    {
+      "id": "R0112",
+      "from": "ST10",
+      "type": "has_food",
+      "to": "FOOD_4c4051119e2c",
+      "source_record": "夏至",
+      "source_field": "food",
+      "source_value": "馄饨与麦粥（无锡）",
+      "source_url": "https://www.ihchina.cn/solar_details/6970.html",
+      "source_scope": "solar_term_record",
+      "display_text": "馄饨与麦粥（无锡）"
+    },
+    {
+      "id": "R0113",
+      "from": "ST10",
+      "type": "has_food",
+      "to": "FOOD_1aa58495a9ed",
+      "source_record": "夏至",
+      "source_field": "food",
+      "source_value": "蒲丝饼（绍兴）",
+      "source_url": "https://www.ihchina.cn/solar_details/6970.html",
+      "source_scope": "solar_term_record",
+      "display_text": "蒲丝饼（绍兴）"
+    },
+    {
+      "id": "R0114",
+      "from": "ST11",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_a4630ed9cc1e",
+      "source_record": "小暑",
+      "source_field": "phenology",
+      "source_value": "一候温风至",
+      "source_url": "https://www.ihchina.cn/solar_details/6971.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候温风至"
+    },
+    {
+      "id": "R0115",
+      "from": "ST11",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_56a78dc42bf7",
+      "source_record": "小暑",
+      "source_field": "phenology",
+      "source_value": "二候蟋蟀居宇",
+      "source_url": "https://www.ihchina.cn/solar_details/6971.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候蟋蟀居宇"
+    },
+    {
+      "id": "R0116",
+      "from": "ST11",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_580c48cd9217",
+      "source_record": "小暑",
+      "source_field": "phenology",
+      "source_value": "三候鹰始鸷",
+      "source_url": "https://www.ihchina.cn/solar_details/6971.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候鹰始鸷"
+    },
+    {
+      "id": "R0117",
+      "from": "ST11",
+      "type": "has_custom",
+      "to": "CUSTOM_96ec56f6500e",
+      "source_record": "小暑",
+      "source_field": "custom",
+      "source_value": "食新（尝新米）",
+      "source_url": "https://www.ihchina.cn/solar_details/6971.html",
+      "source_scope": "solar_term_record",
+      "display_text": "食新（尝新米）"
+    },
+    {
+      "id": "R0118",
+      "from": "ST11",
+      "type": "has_custom",
+      "to": "CUSTOM_e0004e678364",
+      "source_record": "小暑",
+      "source_field": "custom",
+      "source_value": "晒书画衣物",
+      "source_url": "https://www.ihchina.cn/solar_details/6971.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0119",
+      "from": "ST11",
+      "type": "has_custom",
+      "to": "CUSTOM_2134b2da77a5",
+      "source_record": "小暑",
+      "source_field": "custom",
+      "source_value": "游伏",
+      "source_url": "https://www.ihchina.cn/solar_details/6971.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0120",
+      "from": "ST11",
+      "type": "has_food",
+      "to": "FOOD_24b6fc311bde",
+      "source_record": "小暑",
+      "source_field": "food",
+      "source_value": "头伏饺子二伏面",
+      "source_url": "https://www.ihchina.cn/solar_details/6971.html",
+      "source_scope": "solar_term_record",
+      "display_text": "头伏饺子二伏面"
+    },
+    {
+      "id": "R0121",
+      "from": "ST11",
+      "type": "has_food",
+      "to": "FOOD_d8b5f6d957c9",
+      "source_record": "小暑",
+      "source_field": "food",
+      "source_value": "头伏饺子二伏面",
+      "source_url": "https://www.ihchina.cn/solar_details/6971.html",
+      "source_scope": "solar_term_record",
+      "display_text": "头伏饺子二伏面"
+    },
+    {
+      "id": "R0122",
+      "from": "ST11",
+      "type": "has_food",
+      "to": "FOOD_0c3a394e4513",
+      "source_record": "小暑",
+      "source_field": "food",
+      "source_value": "吃暑羊（鲁南苏北）",
+      "source_url": "https://www.ihchina.cn/solar_details/6971.html",
+      "source_scope": "solar_term_record",
+      "display_text": "吃暑羊（鲁南苏北）"
+    },
+    {
+      "id": "R0123",
+      "from": "ST11",
+      "type": "has_food",
+      "to": "FOOD_64820367255a",
+      "source_record": "小暑",
+      "source_field": "food",
+      "source_value": "炒鳝片",
+      "source_url": "https://www.ihchina.cn/solar_details/6971.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0124",
+      "from": "ST11",
+      "type": "has_food",
+      "to": "FOOD_f2f9e1f4d60a",
+      "source_record": "小暑",
+      "source_field": "food",
+      "source_value": "蜜汁藕",
+      "source_url": "https://www.ihchina.cn/solar_details/6971.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0125",
+      "from": "ST12",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_dbba55902dd1",
+      "source_record": "大暑",
+      "source_field": "phenology",
+      "source_value": "一候腐草为萤",
+      "source_url": "https://www.ihchina.cn/solar_details/6972.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候腐草为萤"
+    },
+    {
+      "id": "R0126",
+      "from": "ST12",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_8b40d3014f5e",
+      "source_record": "大暑",
+      "source_field": "phenology",
+      "source_value": "二候土润溽暑",
+      "source_url": "https://www.ihchina.cn/solar_details/6972.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候土润溽暑"
+    },
+    {
+      "id": "R0127",
+      "from": "ST12",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_f6ffc96a2b0b",
+      "source_record": "大暑",
+      "source_field": "phenology",
+      "source_value": "三候大雨时行",
+      "source_url": "https://www.ihchina.cn/solar_details/6972.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候大雨时行"
+    },
+    {
+      "id": "R0128",
+      "from": "ST12",
+      "type": "has_custom",
+      "to": "CUSTOM_d7ff3fa7457e",
+      "source_record": "大暑",
+      "source_field": "custom",
+      "source_value": "送大暑船（浙江台州）",
+      "source_url": "https://www.ihchina.cn/solar_details/6972.html",
+      "source_scope": "solar_term_record",
+      "display_text": "送大暑船（浙江台州）"
+    },
+    {
+      "id": "R0129",
+      "from": "ST12",
+      "type": "has_custom",
+      "to": "CUSTOM_d247b437ffb6",
+      "source_record": "大暑",
+      "source_field": "custom",
+      "source_value": "贴三伏贴",
+      "source_url": "https://www.ihchina.cn/solar_details/6972.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0130",
+      "from": "ST12",
+      "type": "has_custom",
+      "to": "CUSTOM_2dc06b14cae9",
+      "source_record": "大暑",
+      "source_field": "custom",
+      "source_value": "饮伏茶",
+      "source_url": "https://www.ihchina.cn/solar_details/6972.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0131",
+      "from": "ST12",
+      "type": "has_food",
+      "to": "FOOD_eb48c5a4f226",
+      "source_record": "大暑",
+      "source_field": "food",
+      "source_value": "仙草（烧仙草、凉粉，粤东南）",
+      "source_url": "https://www.ihchina.cn/solar_details/6972.html",
+      "source_scope": "solar_term_record",
+      "display_text": "仙草（烧仙草、凉粉，粤东南）"
+    },
+    {
+      "id": "R0132",
+      "from": "ST12",
+      "type": "has_food",
+      "to": "FOOD_7475debe58ca",
+      "source_record": "大暑",
+      "source_field": "food",
+      "source_value": "凤梨（台湾）",
+      "source_url": "https://www.ihchina.cn/solar_details/6972.html",
+      "source_scope": "solar_term_record",
+      "display_text": "凤梨（台湾）"
+    },
+    {
+      "id": "R0133",
+      "from": "ST12",
+      "type": "has_food",
+      "to": "FOOD_f8e6501c341a",
+      "source_record": "大暑",
+      "source_field": "food",
+      "source_value": "荔枝、羊肉、米糟（莆田）",
+      "source_url": "https://www.ihchina.cn/solar_details/6972.html",
+      "source_scope": "solar_term_record",
+      "display_text": "荔枝、羊肉、米糟（莆田）"
+    },
+    {
+      "id": "R0134",
+      "from": "ST12",
+      "type": "has_food",
+      "to": "FOOD_35b94e5fcf2a",
+      "source_record": "大暑",
+      "source_field": "food",
+      "source_value": "荔枝、羊肉、米糟（莆田）",
+      "source_url": "https://www.ihchina.cn/solar_details/6972.html",
+      "source_scope": "solar_term_record",
+      "display_text": "荔枝、羊肉、米糟（莆田）"
+    },
+    {
+      "id": "R0135",
+      "from": "ST12",
+      "type": "has_food",
+      "to": "FOOD_2707fa03cc1b",
+      "source_record": "大暑",
+      "source_field": "food",
+      "source_value": "荔枝、羊肉、米糟（莆田）",
+      "source_url": "https://www.ihchina.cn/solar_details/6972.html",
+      "source_scope": "solar_term_record",
+      "display_text": "荔枝、羊肉、米糟（莆田）"
+    },
+    {
+      "id": "R0136",
+      "from": "ST12",
+      "type": "has_food",
+      "to": "FOOD_822641ae7099",
+      "source_record": "大暑",
+      "source_field": "food",
+      "source_value": "童子鸡（湘中湘北）",
+      "source_url": "https://www.ihchina.cn/solar_details/6972.html",
+      "source_scope": "solar_term_record",
+      "display_text": "童子鸡（湘中湘北）"
+    },
+    {
+      "id": "R0137",
+      "from": "ST13",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_e1ddde89c626",
+      "source_record": "立秋",
+      "source_field": "phenology",
+      "source_value": "一候凉风至",
+      "source_url": "https://www.ihchina.cn/solar_details/6973.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候凉风至"
+    },
+    {
+      "id": "R0138",
+      "from": "ST13",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_1830252e2f42",
+      "source_record": "立秋",
+      "source_field": "phenology",
+      "source_value": "二候白露降",
+      "source_url": "https://www.ihchina.cn/solar_details/6973.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候白露降"
+    },
+    {
+      "id": "R0139",
+      "from": "ST13",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_9731a5906a94",
+      "source_record": "立秋",
+      "source_field": "phenology",
+      "source_value": "三候寒蝉鸣",
+      "source_url": "https://www.ihchina.cn/solar_details/6973.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候寒蝉鸣"
+    },
+    {
+      "id": "R0140",
+      "from": "ST13",
+      "type": "has_custom",
+      "to": "CUSTOM_48b98180d063",
+      "source_record": "立秋",
+      "source_field": "custom",
+      "source_value": "立秋节（迎秋于西郊）",
+      "source_url": "https://www.ihchina.cn/solar_details/6973.html",
+      "source_scope": "solar_term_record",
+      "display_text": "立秋节（迎秋于西郊）"
+    },
+    {
+      "id": "R0141",
+      "from": "ST13",
+      "type": "has_custom",
+      "to": "CUSTOM_d84c440d50db",
+      "source_record": "立秋",
+      "source_field": "custom",
+      "source_value": "秋忙会",
+      "source_url": "https://www.ihchina.cn/solar_details/6973.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0142",
+      "from": "ST13",
+      "type": "has_custom",
+      "to": "CUSTOM_77f06431b99a",
+      "source_record": "立秋",
+      "source_field": "custom",
+      "source_value": "贴秋膘",
+      "source_url": "https://www.ihchina.cn/solar_details/6973.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0143",
+      "from": "ST13",
+      "type": "has_custom",
+      "to": "CUSTOM_59ac89770032",
+      "source_record": "立秋",
+      "source_field": "custom",
+      "source_value": "食秋桃（杭州）",
+      "source_url": "https://www.ihchina.cn/solar_details/6973.html",
+      "source_scope": "solar_term_record",
+      "display_text": "食秋桃（杭州）"
+    },
+    {
+      "id": "R0144",
+      "from": "ST13",
+      "type": "has_custom",
+      "to": "CUSTOM_1c5ee54e7bd5",
+      "source_record": "立秋",
+      "source_field": "custom",
+      "source_value": "啃秋",
+      "source_url": "https://www.ihchina.cn/solar_details/6973.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0145",
+      "from": "ST13",
+      "type": "has_food",
+      "to": "FOOD_92a07e886e75",
+      "source_record": "立秋",
+      "source_field": "food",
+      "source_value": "炖肉贴秋膘",
+      "source_url": "https://www.ihchina.cn/solar_details/6973.html",
+      "source_scope": "solar_term_record",
+      "display_text": "炖肉贴秋膘"
+    },
+    {
+      "id": "R0146",
+      "from": "ST13",
+      "type": "has_food",
+      "to": "FOOD_97cae905c36b",
+      "source_record": "立秋",
+      "source_field": "food",
+      "source_value": "西瓜啃秋",
+      "source_url": "https://www.ihchina.cn/solar_details/6973.html",
+      "source_scope": "solar_term_record",
+      "display_text": "西瓜啃秋"
+    },
+    {
+      "id": "R0147",
+      "from": "ST13",
+      "type": "has_food",
+      "to": "FOOD_41c5a52cc738",
+      "source_record": "立秋",
+      "source_field": "food",
+      "source_value": "秋桃",
+      "source_url": "https://www.ihchina.cn/solar_details/6973.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0148",
+      "from": "ST13",
+      "type": "has_food",
+      "to": "FOOD_130b07d541ca",
+      "source_record": "立秋",
+      "source_field": "food",
+      "source_value": "银耳百合羹",
+      "source_url": "https://www.ihchina.cn/solar_details/6973.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0149",
+      "from": "ST14",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_85de92856402",
+      "source_record": "处暑",
+      "source_field": "phenology",
+      "source_value": "一候鹰乃祭鸟",
+      "source_url": "https://www.ihchina.cn/solar_details/6974.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候鹰乃祭鸟"
+    },
+    {
+      "id": "R0150",
+      "from": "ST14",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_5d6d1d3e19f8",
+      "source_record": "处暑",
+      "source_field": "phenology",
+      "source_value": "二候天地始肃",
+      "source_url": "https://www.ihchina.cn/solar_details/6974.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候天地始肃"
+    },
+    {
+      "id": "R0151",
+      "from": "ST14",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_48aedda5e250",
+      "source_record": "处暑",
+      "source_field": "phenology",
+      "source_value": "三候禾乃登",
+      "source_url": "https://www.ihchina.cn/solar_details/6974.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候禾乃登"
+    },
+    {
+      "id": "R0152",
+      "from": "ST14",
+      "type": "has_custom",
+      "to": "CUSTOM_f7a0370e74f6",
+      "source_record": "处暑",
+      "source_field": "custom",
+      "source_value": "祭祖（中元）",
+      "source_url": "https://www.ihchina.cn/solar_details/6974.html",
+      "source_scope": "solar_term_record",
+      "display_text": "祭祖（中元）"
+    },
+    {
+      "id": "R0153",
+      "from": "ST14",
+      "type": "has_custom",
+      "to": "CUSTOM_c84acebf9ede",
+      "source_record": "处暑",
+      "source_field": "custom",
+      "source_value": "放河灯",
+      "source_url": "https://www.ihchina.cn/solar_details/6974.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0154",
+      "from": "ST14",
+      "type": "has_custom",
+      "to": "CUSTOM_70c356be5f95",
+      "source_record": "处暑",
+      "source_field": "custom",
+      "source_value": "出游迎秋",
+      "source_url": "https://www.ihchina.cn/solar_details/6974.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0155",
+      "from": "ST14",
+      "type": "has_custom",
+      "to": "CUSTOM_f7b3a93ae7e2",
+      "source_record": "处暑",
+      "source_field": "custom",
+      "source_value": "开渔节（象山、舟山）",
+      "source_url": "https://www.ihchina.cn/solar_details/6974.html",
+      "source_scope": "solar_term_record",
+      "display_text": "开渔节（象山、舟山）"
+    },
+    {
+      "id": "R0156",
+      "from": "ST14",
+      "type": "has_food",
+      "to": "FOOD_da55d7bad81e",
+      "source_record": "处暑",
+      "source_field": "food",
+      "source_value": "处暑百合鸭（北京）",
+      "source_url": "https://www.ihchina.cn/solar_details/6974.html",
+      "source_scope": "solar_term_record",
+      "display_text": "处暑百合鸭（北京）"
+    },
+    {
+      "id": "R0157",
+      "from": "ST14",
+      "type": "has_food",
+      "to": "FOOD_5963acefbf5f",
+      "source_record": "处暑",
+      "source_field": "food",
+      "source_value": "老鸭汤",
+      "source_url": "https://www.ihchina.cn/solar_details/6974.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0158",
+      "from": "ST15",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_3109e590b8da",
+      "source_record": "白露",
+      "source_field": "phenology",
+      "source_value": "一候鸿雁来",
+      "source_url": "https://www.ihchina.cn/solar_details/6975.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候鸿雁来"
+    },
+    {
+      "id": "R0159",
+      "from": "ST15",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_3d1594923b19",
+      "source_record": "白露",
+      "source_field": "phenology",
+      "source_value": "二候玄鸟归",
+      "source_url": "https://www.ihchina.cn/solar_details/6975.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候玄鸟归"
+    },
+    {
+      "id": "R0160",
+      "from": "ST15",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_68c5fc338c8d",
+      "source_record": "白露",
+      "source_field": "phenology",
+      "source_value": "三候群鸟养羞",
+      "source_url": "https://www.ihchina.cn/solar_details/6975.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候群鸟养羞"
+    },
+    {
+      "id": "R0161",
+      "from": "ST15",
+      "type": "has_custom",
+      "to": "CUSTOM_e3dbd4a2028b",
+      "source_record": "白露",
+      "source_field": "custom",
+      "source_value": "祭祀禹王（太湖西山）",
+      "source_url": "https://www.ihchina.cn/solar_details/6975.html",
+      "source_scope": "solar_term_record",
+      "display_text": "祭祀禹王（太湖西山）"
+    },
+    {
+      "id": "R0162",
+      "from": "ST15",
+      "type": "has_custom",
+      "to": "CUSTOM_2b5af12d963a",
+      "source_record": "白露",
+      "source_field": "custom",
+      "source_value": "喝白露茶",
+      "source_url": "https://www.ihchina.cn/solar_details/6975.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0163",
+      "from": "ST15",
+      "type": "has_custom",
+      "to": "CUSTOM_a322d5725034",
+      "source_record": "白露",
+      "source_field": "custom",
+      "source_value": "酿白露米酒（湖南资兴）",
+      "source_url": "https://www.ihchina.cn/solar_details/6975.html",
+      "source_scope": "solar_term_record",
+      "display_text": "酿白露米酒（湖南资兴）"
+    },
+    {
+      "id": "R0164",
+      "from": "ST15",
+      "type": "has_food",
+      "to": "FOOD_b0ebd7c27711",
+      "source_record": "白露",
+      "source_field": "food",
+      "source_value": "白露茶",
+      "source_url": "https://www.ihchina.cn/solar_details/6975.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0165",
+      "from": "ST15",
+      "type": "has_food",
+      "to": "FOOD_ebc648457ea3",
+      "source_record": "白露",
+      "source_field": "food",
+      "source_value": "白露米酒",
+      "source_url": "https://www.ihchina.cn/solar_details/6975.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0166",
+      "from": "ST15",
+      "type": "has_food",
+      "to": "FOOD_8a20d05fc261",
+      "source_record": "白露",
+      "source_field": "food",
+      "source_value": "水八仙（茭白、莲藕、水芹、芡实等，苏南）",
+      "source_url": "https://www.ihchina.cn/solar_details/6975.html",
+      "source_scope": "solar_term_record",
+      "display_text": "水八仙（茭白、莲藕、水芹、芡实等，苏南）"
+    },
+    {
+      "id": "R0167",
+      "from": "ST15",
+      "type": "has_poem",
+      "to": "POEM_c66f7c3b3373",
+      "source_record": "白露",
+      "source_field": "poem",
+      "source_value": "《诗经·秦风·蒹葭》：蒹葭苍苍，白露为霜",
+      "source_url": "https://www.ihchina.cn/solar_details/6975.html",
+      "source_scope": "solar_term_record",
+      "display_text": "《诗经·秦风·蒹葭》：蒹葭苍苍，白露为霜",
+      "relation_note": "来源文章中的相关诗词引用"
+    },
+    {
+      "id": "R0168",
+      "from": "ST16",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_beda9a5ad996",
+      "source_record": "秋分",
+      "source_field": "phenology",
+      "source_value": "一候雷始收声",
+      "source_url": "https://www.ihchina.cn/solar_details/6976.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候雷始收声"
+    },
+    {
+      "id": "R0169",
+      "from": "ST16",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_15a5b7208792",
+      "source_record": "秋分",
+      "source_field": "phenology",
+      "source_value": "二候蛰虫坯户",
+      "source_url": "https://www.ihchina.cn/solar_details/6976.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候蛰虫坯户"
+    },
+    {
+      "id": "R0170",
+      "from": "ST16",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_21af65cf9ea1",
+      "source_record": "秋分",
+      "source_field": "phenology",
+      "source_value": "三候水始涸",
+      "source_url": "https://www.ihchina.cn/solar_details/6976.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候水始涸"
+    },
+    {
+      "id": "R0171",
+      "from": "ST16",
+      "type": "has_custom",
+      "to": "CUSTOM_b307b43b9150",
+      "source_record": "秋分",
+      "source_field": "custom",
+      "source_value": "祭月",
+      "source_url": "https://www.ihchina.cn/solar_details/6976.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0172",
+      "from": "ST16",
+      "type": "has_custom",
+      "to": "CUSTOM_fd8fd94d8257",
+      "source_record": "秋分",
+      "source_field": "custom",
+      "source_value": "走社",
+      "source_url": "https://www.ihchina.cn/solar_details/6976.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0173",
+      "from": "ST16",
+      "type": "has_custom",
+      "to": "CUSTOM_9e1b5ca69bce",
+      "source_record": "秋分",
+      "source_field": "custom",
+      "source_value": "竖蛋",
+      "source_url": "https://www.ihchina.cn/solar_details/6976.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0174",
+      "from": "ST16",
+      "type": "has_custom",
+      "to": "CUSTOM_3337afa67a1f",
+      "source_record": "秋分",
+      "source_field": "custom",
+      "source_value": "送秋牛",
+      "source_url": "https://www.ihchina.cn/solar_details/6976.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0175",
+      "from": "ST16",
+      "type": "has_custom",
+      "to": "CUSTOM_1a43cc1d9a35",
+      "source_record": "秋分",
+      "source_field": "custom",
+      "source_value": "粘雀子嘴",
+      "source_url": "https://www.ihchina.cn/solar_details/6976.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0176",
+      "from": "ST16",
+      "type": "has_food",
+      "to": "FOOD_34d3b9396f9f",
+      "source_record": "秋分",
+      "source_field": "food",
+      "source_value": "秋菜滚汤（岭南野苋菜）",
+      "source_url": "https://www.ihchina.cn/solar_details/6976.html",
+      "source_scope": "solar_term_record",
+      "display_text": "秋菜滚汤（岭南野苋菜）"
+    },
+    {
+      "id": "R0177",
+      "from": "ST16",
+      "type": "has_food",
+      "to": "FOOD_958b28effc9d",
+      "source_record": "秋分",
+      "source_field": "food",
+      "source_value": "桂花鸭（南京）",
+      "source_url": "https://www.ihchina.cn/solar_details/6976.html",
+      "source_scope": "solar_term_record",
+      "display_text": "桂花鸭（南京）"
+    },
+    {
+      "id": "R0178",
+      "from": "ST16",
+      "type": "has_food",
+      "to": "FOOD_2667f4630b04",
+      "source_record": "秋分",
+      "source_field": "food",
+      "source_value": "汤圆",
+      "source_url": "https://www.ihchina.cn/solar_details/6976.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0179",
+      "from": "ST16",
+      "type": "has_food",
+      "to": "FOOD_f5375b0ee4ca",
+      "source_record": "秋分",
+      "source_field": "food",
+      "source_value": "蟹",
+      "source_url": "https://www.ihchina.cn/solar_details/6976.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0180",
+      "from": "ST17",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_3035b315ee7a",
+      "source_record": "寒露",
+      "source_field": "phenology",
+      "source_value": "一候鸿雁来宾",
+      "source_url": "https://www.ihchina.cn/solar_details/6977.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候鸿雁来宾"
+    },
+    {
+      "id": "R0181",
+      "from": "ST17",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_585fc21262b4",
+      "source_record": "寒露",
+      "source_field": "phenology",
+      "source_value": "二候雀入大水为蛤",
+      "source_url": "https://www.ihchina.cn/solar_details/6977.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候雀入大水为蛤"
+    },
+    {
+      "id": "R0182",
+      "from": "ST17",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_a65997b5ee36",
+      "source_record": "寒露",
+      "source_field": "phenology",
+      "source_value": "三候菊有黄华",
+      "source_url": "https://www.ihchina.cn/solar_details/6977.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候菊有黄华"
+    },
+    {
+      "id": "R0183",
+      "from": "ST17",
+      "type": "has_custom",
+      "to": "CUSTOM_b5e829d72b59",
+      "source_record": "寒露",
+      "source_field": "custom",
+      "source_value": "登高赏菊",
+      "source_url": "https://www.ihchina.cn/solar_details/6977.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0184",
+      "from": "ST17",
+      "type": "has_custom",
+      "to": "CUSTOM_496ff7f2d0eb",
+      "source_record": "寒露",
+      "source_field": "custom",
+      "source_value": "斗蟋蟀",
+      "source_url": "https://www.ihchina.cn/solar_details/6977.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0185",
+      "from": "ST17",
+      "type": "has_custom",
+      "to": "CUSTOM_c0670e0e91de",
+      "source_record": "寒露",
+      "source_field": "custom",
+      "source_value": "秋钓边",
+      "source_url": "https://www.ihchina.cn/solar_details/6977.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0186",
+      "from": "ST17",
+      "type": "has_custom",
+      "to": "CUSTOM_c55cbffa53df",
+      "source_record": "寒露",
+      "source_field": "custom",
+      "source_value": "饮菊花酒",
+      "source_url": "https://www.ihchina.cn/solar_details/6977.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0187",
+      "from": "ST17",
+      "type": "has_custom",
+      "to": "CUSTOM_4ecd508341f5",
+      "source_record": "寒露",
+      "source_field": "custom",
+      "source_value": "喝寒露茶",
+      "source_url": "https://www.ihchina.cn/solar_details/6977.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0188",
+      "from": "ST17",
+      "type": "has_food",
+      "to": "FOOD_8ff8204ac443",
+      "source_record": "寒露",
+      "source_field": "food",
+      "source_value": "菊花酒",
+      "source_url": "https://www.ihchina.cn/solar_details/6977.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0189",
+      "from": "ST17",
+      "type": "has_food",
+      "to": "FOOD_f5b51a9307a4",
+      "source_record": "寒露",
+      "source_field": "food",
+      "source_value": "寒露茶（正秋茶）",
+      "source_url": "https://www.ihchina.cn/solar_details/6977.html",
+      "source_scope": "solar_term_record",
+      "display_text": "寒露茶（正秋茶）"
+    },
+    {
+      "id": "R0190",
+      "from": "ST17",
+      "type": "has_food",
+      "to": "FOOD_f5375b0ee4ca",
+      "source_record": "寒露",
+      "source_field": "food",
+      "source_value": "蟹",
+      "source_url": "https://www.ihchina.cn/solar_details/6977.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0191",
+      "from": "ST17",
+      "type": "has_food",
+      "to": "FOOD_9586e57985bb",
+      "source_record": "寒露",
+      "source_field": "food",
+      "source_value": "芝麻",
+      "source_url": "https://www.ihchina.cn/solar_details/6977.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0192",
+      "from": "ST18",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_45f6593f7c0a",
+      "source_record": "霜降",
+      "source_field": "phenology",
+      "source_value": "一候豺乃祭兽",
+      "source_url": "https://www.ihchina.cn/solar_details/6978.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候豺乃祭兽"
+    },
+    {
+      "id": "R0193",
+      "from": "ST18",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_f2b2aa78b3dc",
+      "source_record": "霜降",
+      "source_field": "phenology",
+      "source_value": "二候草木黄落",
+      "source_url": "https://www.ihchina.cn/solar_details/6978.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候草木黄落"
+    },
+    {
+      "id": "R0194",
+      "from": "ST18",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_d05ec9369477",
+      "source_record": "霜降",
+      "source_field": "phenology",
+      "source_value": "三候蛰虫咸俯",
+      "source_url": "https://www.ihchina.cn/solar_details/6978.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候蛰虫咸俯"
+    },
+    {
+      "id": "R0195",
+      "from": "ST18",
+      "type": "has_custom",
+      "to": "CUSTOM_fec8396ea4f9",
+      "source_record": "霜降",
+      "source_field": "custom",
+      "source_value": "赏菊（菊花会）",
+      "source_url": "https://www.ihchina.cn/solar_details/6978.html",
+      "source_scope": "solar_term_record",
+      "display_text": "赏菊（菊花会）"
+    },
+    {
+      "id": "R0196",
+      "from": "ST18",
+      "type": "has_custom",
+      "to": "CUSTOM_e95e37fb41b0",
+      "source_record": "霜降",
+      "source_field": "custom",
+      "source_value": "登高",
+      "source_url": "https://www.ihchina.cn/solar_details/6978.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0197",
+      "from": "ST18",
+      "type": "has_custom",
+      "to": "CUSTOM_f6dc3f478b55",
+      "source_record": "霜降",
+      "source_field": "custom",
+      "source_value": "送芋鬼（广东高明）",
+      "source_url": "https://www.ihchina.cn/solar_details/6978.html",
+      "source_scope": "solar_term_record",
+      "display_text": "送芋鬼（广东高明）"
+    },
+    {
+      "id": "R0198",
+      "from": "ST18",
+      "type": "has_custom",
+      "to": "CUSTOM_5840b928be2f",
+      "source_record": "霜降",
+      "source_field": "custom",
+      "source_value": "迎霜（山东烟台）",
+      "source_url": "https://www.ihchina.cn/solar_details/6978.html",
+      "source_scope": "solar_term_record",
+      "display_text": "迎霜（山东烟台）"
+    },
+    {
+      "id": "R0199",
+      "from": "ST18",
+      "type": "has_food",
+      "to": "FOOD_dd3550e396b8",
+      "source_record": "霜降",
+      "source_field": "food",
+      "source_value": "柿子",
+      "source_url": "https://www.ihchina.cn/solar_details/6978.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0200",
+      "from": "ST18",
+      "type": "has_food",
+      "to": "FOOD_15434cd49c99",
+      "source_record": "霜降",
+      "source_field": "food",
+      "source_value": "鸭子、牛肉进补（闽南、台湾）",
+      "source_url": "https://www.ihchina.cn/solar_details/6978.html",
+      "source_scope": "solar_term_record",
+      "display_text": "鸭子、牛肉进补（闽南、台湾）"
+    },
+    {
+      "id": "R0201",
+      "from": "ST18",
+      "type": "has_food",
+      "to": "FOOD_728bf26a6e55",
+      "source_record": "霜降",
+      "source_field": "food",
+      "source_value": "鸭子、牛肉进补（闽南、台湾）",
+      "source_url": "https://www.ihchina.cn/solar_details/6978.html",
+      "source_scope": "solar_term_record",
+      "display_text": "鸭子、牛肉进补（闽南、台湾）"
+    },
+    {
+      "id": "R0202",
+      "from": "ST18",
+      "type": "has_food",
+      "to": "FOOD_5e904c833ce1",
+      "source_record": "霜降",
+      "source_field": "food",
+      "source_value": "打芋煲",
+      "source_url": "https://www.ihchina.cn/solar_details/6978.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0203",
+      "from": "ST19",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_0d1bbb2d3689",
+      "source_record": "立冬",
+      "source_field": "phenology",
+      "source_value": "一候水始冰",
+      "source_url": "https://www.ihchina.cn/solar_details/6979.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候水始冰"
+    },
+    {
+      "id": "R0204",
+      "from": "ST19",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_bf31e2354cc7",
+      "source_record": "立冬",
+      "source_field": "phenology",
+      "source_value": "二候地始冻",
+      "source_url": "https://www.ihchina.cn/solar_details/6979.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候地始冻"
+    },
+    {
+      "id": "R0205",
+      "from": "ST19",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_802fe3e122d9",
+      "source_record": "立冬",
+      "source_field": "phenology",
+      "source_value": "三候雉入大水为蜃",
+      "source_url": "https://www.ihchina.cn/solar_details/6979.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候雉入大水为蜃"
+    },
+    {
+      "id": "R0206",
+      "from": "ST19",
+      "type": "has_custom",
+      "to": "CUSTOM_3e6a64d19e80",
+      "source_record": "立冬",
+      "source_field": "custom",
+      "source_value": "迎冬（天子出郊迎冬、赐冬衣）",
+      "source_url": "https://www.ihchina.cn/solar_details/6979.html",
+      "source_scope": "solar_term_record",
+      "display_text": "迎冬（天子出郊迎冬、赐冬衣）"
+    },
+    {
+      "id": "R0207",
+      "from": "ST19",
+      "type": "has_custom",
+      "to": "CUSTOM_6ea428deb6bf",
+      "source_record": "立冬",
+      "source_field": "custom",
+      "source_value": "冬泳（哈尔滨、武汉等）",
+      "source_url": "https://www.ihchina.cn/solar_details/6979.html",
+      "source_scope": "solar_term_record",
+      "display_text": "冬泳（哈尔滨、武汉等）"
+    },
+    {
+      "id": "R0208",
+      "from": "ST19",
+      "type": "has_custom",
+      "to": "CUSTOM_dadf7453bd06",
+      "source_record": "立冬",
+      "source_field": "custom",
+      "source_value": "补冬",
+      "source_url": "https://www.ihchina.cn/solar_details/6979.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0209",
+      "from": "ST19",
+      "type": "has_custom",
+      "to": "CUSTOM_659232f070c1",
+      "source_record": "立冬",
+      "source_field": "custom",
+      "source_value": "猫冬",
+      "source_url": "https://www.ihchina.cn/solar_details/6979.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0210",
+      "from": "ST19",
+      "type": "has_food",
+      "to": "FOOD_3e23f02f77fc",
+      "source_record": "立冬",
+      "source_field": "food",
+      "source_value": "北方饺子",
+      "source_url": "https://www.ihchina.cn/solar_details/6979.html",
+      "source_scope": "solar_term_record",
+      "display_text": "北方饺子"
+    },
+    {
+      "id": "R0211",
+      "from": "ST19",
+      "type": "has_food",
+      "to": "FOOD_a7f4f8076694",
+      "source_record": "立冬",
+      "source_field": "food",
+      "source_value": "南方鸡鸭鱼肉（麻油鸡、四物鸡、羊肉炉、姜母鸭）",
+      "source_url": "https://www.ihchina.cn/solar_details/6979.html",
+      "source_scope": "solar_term_record",
+      "display_text": "南方鸡鸭鱼肉（麻油鸡、四物鸡、羊肉炉、姜母鸭）"
+    },
+    {
+      "id": "R0212",
+      "from": "ST19",
+      "type": "has_food",
+      "to": "FOOD_4e303a9c6a9f",
+      "source_record": "立冬",
+      "source_field": "food",
+      "source_value": "南方鸡鸭鱼肉（麻油鸡、四物鸡、羊肉炉、姜母鸭）",
+      "source_url": "https://www.ihchina.cn/solar_details/6979.html",
+      "source_scope": "solar_term_record",
+      "display_text": "南方鸡鸭鱼肉（麻油鸡、四物鸡、羊肉炉、姜母鸭）"
+    },
+    {
+      "id": "R0213",
+      "from": "ST19",
+      "type": "has_food",
+      "to": "FOOD_02fdde7a4113",
+      "source_record": "立冬",
+      "source_field": "food",
+      "source_value": "南方鸡鸭鱼肉（麻油鸡、四物鸡、羊肉炉、姜母鸭）",
+      "source_url": "https://www.ihchina.cn/solar_details/6979.html",
+      "source_scope": "solar_term_record",
+      "display_text": "南方鸡鸭鱼肉（麻油鸡、四物鸡、羊肉炉、姜母鸭）"
+    },
+    {
+      "id": "R0214",
+      "from": "ST19",
+      "type": "has_food",
+      "to": "FOOD_a1b450fd68e6",
+      "source_record": "立冬",
+      "source_field": "food",
+      "source_value": "南方鸡鸭鱼肉（麻油鸡、四物鸡、羊肉炉、姜母鸭）",
+      "source_url": "https://www.ihchina.cn/solar_details/6979.html",
+      "source_scope": "solar_term_record",
+      "display_text": "南方鸡鸭鱼肉（麻油鸡、四物鸡、羊肉炉、姜母鸭）"
+    },
+    {
+      "id": "R0215",
+      "from": "ST20",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_4ca1e9abb052",
+      "source_record": "小雪",
+      "source_field": "phenology",
+      "source_value": "一候虹藏不见",
+      "source_url": "https://www.ihchina.cn/solar_details/6980.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候虹藏不见"
+    },
+    {
+      "id": "R0216",
+      "from": "ST20",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_7e65293cef66",
+      "source_record": "小雪",
+      "source_field": "phenology",
+      "source_value": "二候天气上升地气下降",
+      "source_url": "https://www.ihchina.cn/solar_details/6980.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候天气上升地气下降"
+    },
+    {
+      "id": "R0217",
+      "from": "ST20",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_76e20e173873",
+      "source_record": "小雪",
+      "source_field": "phenology",
+      "source_value": "三候闭塞而成冬",
+      "source_url": "https://www.ihchina.cn/solar_details/6980.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候闭塞而成冬"
+    },
+    {
+      "id": "R0218",
+      "from": "ST20",
+      "type": "has_custom",
+      "to": "CUSTOM_ab7e000a8148",
+      "source_record": "小雪",
+      "source_field": "custom",
+      "source_value": "吃糍粑",
+      "source_url": "https://www.ihchina.cn/solar_details/6980.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0219",
+      "from": "ST20",
+      "type": "has_custom",
+      "to": "CUSTOM_0d203ac189ee",
+      "source_record": "小雪",
+      "source_field": "custom",
+      "source_value": "腌腊肉",
+      "source_url": "https://www.ihchina.cn/solar_details/6980.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0220",
+      "from": "ST20",
+      "type": "has_custom",
+      "to": "CUSTOM_8939ef5a6efe",
+      "source_record": "小雪",
+      "source_field": "custom",
+      "source_value": "晒鱼干（台湾中南部）",
+      "source_url": "https://www.ihchina.cn/solar_details/6980.html",
+      "source_scope": "solar_term_record",
+      "display_text": "晒鱼干（台湾中南部）"
+    },
+    {
+      "id": "R0221",
+      "from": "ST20",
+      "type": "has_custom",
+      "to": "CUSTOM_21b829c3bc0f",
+      "source_record": "小雪",
+      "source_field": "custom",
+      "source_value": "吃刨汤（土家族）",
+      "source_url": "https://www.ihchina.cn/solar_details/6980.html",
+      "source_scope": "solar_term_record",
+      "display_text": "吃刨汤（土家族）"
+    },
+    {
+      "id": "R0222",
+      "from": "ST20",
+      "type": "has_food",
+      "to": "FOOD_836573be08d9",
+      "source_record": "小雪",
+      "source_field": "food",
+      "source_value": "糍粑",
+      "source_url": "https://www.ihchina.cn/solar_details/6980.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0223",
+      "from": "ST20",
+      "type": "has_food",
+      "to": "FOOD_05e441edc9d9",
+      "source_record": "小雪",
+      "source_field": "food",
+      "source_value": "腊肉香肠",
+      "source_url": "https://www.ihchina.cn/solar_details/6980.html",
+      "source_scope": "solar_term_record",
+      "display_text": "腊肉香肠"
+    },
+    {
+      "id": "R0224",
+      "from": "ST20",
+      "type": "has_food",
+      "to": "FOOD_d60765af4e0e",
+      "source_record": "小雪",
+      "source_field": "food",
+      "source_value": "腊肉香肠",
+      "source_url": "https://www.ihchina.cn/solar_details/6980.html",
+      "source_scope": "solar_term_record",
+      "display_text": "腊肉香肠"
+    },
+    {
+      "id": "R0225",
+      "from": "ST20",
+      "type": "has_food",
+      "to": "FOOD_d0c6a6357eec",
+      "source_record": "小雪",
+      "source_field": "food",
+      "source_value": "鱼干",
+      "source_url": "https://www.ihchina.cn/solar_details/6980.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0226",
+      "from": "ST20",
+      "type": "has_food",
+      "to": "FOOD_d1ffe82853ae",
+      "source_record": "小雪",
+      "source_field": "food",
+      "source_value": "刨汤",
+      "source_url": "https://www.ihchina.cn/solar_details/6980.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0227",
+      "from": "ST20",
+      "type": "has_poem",
+      "to": "POEM_c298078308a1",
+      "source_record": "小雪",
+      "source_field": "poem",
+      "source_value": "苏轼《赠刘景文》：一年好景君须记，正是橙黄橘绿时",
+      "source_url": "https://www.ihchina.cn/solar_details/6980.html",
+      "source_scope": "solar_term_record",
+      "display_text": "苏轼《赠刘景文》：一年好景君须记，正是橙黄橘绿时",
+      "relation_note": "来源文章中的相关诗词引用"
+    },
+    {
+      "id": "R0228",
+      "from": "ST21",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_61befe5d4ecf",
+      "source_record": "大雪",
+      "source_field": "phenology",
+      "source_value": "一候鹖鴠不鸣",
+      "source_url": "https://www.ihchina.cn/solar_details/6981.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候鹖鴠不鸣"
+    },
+    {
+      "id": "R0229",
+      "from": "ST21",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_e96120983e2f",
+      "source_record": "大雪",
+      "source_field": "phenology",
+      "source_value": "二候虎始交",
+      "source_url": "https://www.ihchina.cn/solar_details/6981.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候虎始交"
+    },
+    {
+      "id": "R0230",
+      "from": "ST21",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_4c702beebf25",
+      "source_record": "大雪",
+      "source_field": "phenology",
+      "source_value": "三候荔挺出",
+      "source_url": "https://www.ihchina.cn/solar_details/6981.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候荔挺出"
+    },
+    {
+      "id": "R0231",
+      "from": "ST21",
+      "type": "has_custom",
+      "to": "CUSTOM_286cc54f73a8",
+      "source_record": "大雪",
+      "source_field": "custom",
+      "source_value": "腌肉（小雪腌菜、大雪腌肉）",
+      "source_url": "https://www.ihchina.cn/solar_details/6981.html",
+      "source_scope": "solar_term_record",
+      "display_text": "腌肉（小雪腌菜、大雪腌肉）"
+    },
+    {
+      "id": "R0232",
+      "from": "ST21",
+      "type": "has_custom",
+      "to": "CUSTOM_fa108ccc6858",
+      "source_record": "大雪",
+      "source_field": "custom",
+      "source_value": "腌雪菜",
+      "source_url": "https://www.ihchina.cn/solar_details/6981.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0233",
+      "from": "ST21",
+      "type": "has_custom",
+      "to": "CUSTOM_569f2b5bf3a1",
+      "source_record": "大雪",
+      "source_field": "custom",
+      "source_value": "观赏封河",
+      "source_url": "https://www.ihchina.cn/solar_details/6981.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0234",
+      "from": "ST21",
+      "type": "has_custom",
+      "to": "CUSTOM_a2b065aa7488",
+      "source_record": "大雪",
+      "source_field": "custom",
+      "source_value": "捕乌鱼",
+      "source_url": "https://www.ihchina.cn/solar_details/6981.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0235",
+      "from": "ST21",
+      "type": "has_food",
+      "to": "FOOD_a07bc41e900c",
+      "source_record": "大雪",
+      "source_field": "food",
+      "source_value": "咸肉腊味",
+      "source_url": "https://www.ihchina.cn/solar_details/6981.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0236",
+      "from": "ST21",
+      "type": "has_food",
+      "to": "FOOD_a2df0d957fd6",
+      "source_record": "大雪",
+      "source_field": "food",
+      "source_value": "雪菜面、雪菜豆腐",
+      "source_url": "https://www.ihchina.cn/solar_details/6981.html",
+      "source_scope": "solar_term_record",
+      "display_text": "雪菜面、雪菜豆腐"
+    },
+    {
+      "id": "R0237",
+      "from": "ST21",
+      "type": "has_food",
+      "to": "FOOD_b345091e9643",
+      "source_record": "大雪",
+      "source_field": "food",
+      "source_value": "雪菜面、雪菜豆腐",
+      "source_url": "https://www.ihchina.cn/solar_details/6981.html",
+      "source_scope": "solar_term_record",
+      "display_text": "雪菜面、雪菜豆腐"
+    },
+    {
+      "id": "R0238",
+      "from": "ST21",
+      "type": "has_food",
+      "to": "FOOD_a3811eeb7bd1",
+      "source_record": "大雪",
+      "source_field": "food",
+      "source_value": "姜枣茶",
+      "source_url": "https://www.ihchina.cn/solar_details/6981.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0239",
+      "from": "ST22",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_ff64ce0b2e3d",
+      "source_record": "冬至",
+      "source_field": "phenology",
+      "source_value": "一候蚯蚓结",
+      "source_url": "https://www.ihchina.cn/solar_details/6982.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候蚯蚓结"
+    },
+    {
+      "id": "R0240",
+      "from": "ST22",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_ff4901f56cde",
+      "source_record": "冬至",
+      "source_field": "phenology",
+      "source_value": "二候麋角解",
+      "source_url": "https://www.ihchina.cn/solar_details/6982.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候麋角解"
+    },
+    {
+      "id": "R0241",
+      "from": "ST22",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_875a1ee9438e",
+      "source_record": "冬至",
+      "source_field": "phenology",
+      "source_value": "三候水泉动",
+      "source_url": "https://www.ihchina.cn/solar_details/6982.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候水泉动"
+    },
+    {
+      "id": "R0242",
+      "from": "ST22",
+      "type": "has_custom",
+      "to": "CUSTOM_a43343584a1a",
+      "source_record": "冬至",
+      "source_field": "custom",
+      "source_value": "祭天祭祖（三门祭冬）",
+      "source_url": "https://www.ihchina.cn/solar_details/6982.html",
+      "source_scope": "solar_term_record",
+      "display_text": "祭天祭祖（三门祭冬）"
+    },
+    {
+      "id": "R0243",
+      "from": "ST22",
+      "type": "has_custom",
+      "to": "CUSTOM_262a39895a8b",
+      "source_record": "冬至",
+      "source_field": "custom",
+      "source_value": "贺冬",
+      "source_url": "https://www.ihchina.cn/solar_details/6982.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0244",
+      "from": "ST22",
+      "type": "has_custom",
+      "to": "CUSTOM_c6f3c900cf6a",
+      "source_record": "冬至",
+      "source_field": "custom",
+      "source_value": "九九消寒图",
+      "source_url": "https://www.ihchina.cn/solar_details/6982.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0245",
+      "from": "ST22",
+      "type": "has_custom",
+      "to": "CUSTOM_71cc43cc979d",
+      "source_record": "冬至",
+      "source_field": "custom",
+      "source_value": "数九",
+      "source_url": "https://www.ihchina.cn/solar_details/6982.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0246",
+      "from": "ST22",
+      "type": "has_food",
+      "to": "FOOD_3e23f02f77fc",
+      "source_record": "冬至",
+      "source_field": "food",
+      "source_value": "北方饺子",
+      "source_url": "https://www.ihchina.cn/solar_details/6982.html",
+      "source_scope": "solar_term_record",
+      "display_text": "北方饺子"
+    },
+    {
+      "id": "R0247",
+      "from": "ST22",
+      "type": "has_food",
+      "to": "FOOD_160e3cc99d42",
+      "source_record": "冬至",
+      "source_field": "food",
+      "source_value": "赤豆糯米饭（嘉兴）",
+      "source_url": "https://www.ihchina.cn/solar_details/6982.html",
+      "source_scope": "solar_term_record",
+      "display_text": "赤豆糯米饭（嘉兴）"
+    },
+    {
+      "id": "R0248",
+      "from": "ST22",
+      "type": "has_food",
+      "to": "FOOD_d2d3a0891734",
+      "source_record": "冬至",
+      "source_field": "food",
+      "source_value": "冬酿酒（姑苏）",
+      "source_url": "https://www.ihchina.cn/solar_details/6982.html",
+      "source_scope": "solar_term_record",
+      "display_text": "冬酿酒（姑苏）"
+    },
+    {
+      "id": "R0249",
+      "from": "ST22",
+      "type": "has_food",
+      "to": "FOOD_0fd78418bc3b",
+      "source_record": "冬至",
+      "source_field": "food",
+      "source_value": "羊肉汤",
+      "source_url": "https://www.ihchina.cn/solar_details/6982.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0250",
+      "from": "ST22",
+      "type": "has_poem",
+      "to": "POEM_76667a9179aa",
+      "source_record": "冬至",
+      "source_field": "poem",
+      "source_value": "杜甫《小至》：天时人事日相催，冬至阳生春又来",
+      "source_url": "https://www.ihchina.cn/solar_details/6982.html",
+      "source_scope": "solar_term_record",
+      "display_text": "杜甫《小至》：天时人事日相催，冬至阳生春又来",
+      "relation_note": "来源文章中的相关诗词引用"
+    },
+    {
+      "id": "R0251",
+      "from": "ST23",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_13d620aaf582",
+      "source_record": "小寒",
+      "source_field": "phenology",
+      "source_value": "一候雁北乡",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候雁北乡"
+    },
+    {
+      "id": "R0252",
+      "from": "ST23",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_7a6d89ec4dd8",
+      "source_record": "小寒",
+      "source_field": "phenology",
+      "source_value": "二候鹊始巢",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候鹊始巢"
+    },
+    {
+      "id": "R0253",
+      "from": "ST23",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_5d9ef6cd557b",
+      "source_record": "小寒",
+      "source_field": "phenology",
+      "source_value": "三候雉始雊",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候雉始雊"
+    },
+    {
+      "id": "R0254",
+      "from": "ST23",
+      "type": "has_custom",
+      "to": "CUSTOM_38bc4fd5cb43",
+      "source_record": "小寒",
+      "source_field": "custom",
+      "source_value": "探梅",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0255",
+      "from": "ST23",
+      "type": "has_custom",
+      "to": "CUSTOM_de92593d3bbb",
+      "source_record": "小寒",
+      "source_field": "custom",
+      "source_value": "冰嬉",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0256",
+      "from": "ST23",
+      "type": "has_custom",
+      "to": "CUSTOM_dd5fcca67761",
+      "source_record": "小寒",
+      "source_field": "custom",
+      "source_value": "写春联剪窗花备年",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0257",
+      "from": "ST23",
+      "type": "has_custom",
+      "to": "CUSTOM_4dbb92a51710",
+      "source_record": "小寒",
+      "source_field": "custom",
+      "source_value": "吃黄芽菜（天津）",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record",
+      "display_text": "吃黄芽菜（天津）"
+    },
+    {
+      "id": "R0258",
+      "from": "ST23",
+      "type": "has_custom",
+      "to": "CUSTOM_ce2ba604dc93",
+      "source_record": "小寒",
+      "source_field": "custom",
+      "source_value": "吃菜饭（南京）",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record",
+      "display_text": "吃菜饭（南京）"
+    },
+    {
+      "id": "R0259",
+      "from": "ST23",
+      "type": "has_custom",
+      "to": "CUSTOM_3e9853439803",
+      "source_record": "小寒",
+      "source_field": "custom",
+      "source_value": "吃糯米饭（广州）",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record",
+      "display_text": "吃糯米饭（广州）"
+    },
+    {
+      "id": "R0260",
+      "from": "ST23",
+      "type": "has_food",
+      "to": "FOOD_7181bfc42492",
+      "source_record": "小寒",
+      "source_field": "food",
+      "source_value": "黄芽菜",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0261",
+      "from": "ST23",
+      "type": "has_food",
+      "to": "FOOD_18c50702ee81",
+      "source_record": "小寒",
+      "source_field": "food",
+      "source_value": "南京菜饭",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record",
+      "display_text": "南京菜饭"
+    },
+    {
+      "id": "R0262",
+      "from": "ST23",
+      "type": "has_food",
+      "to": "FOOD_8431ab64a37b",
+      "source_record": "小寒",
+      "source_field": "food",
+      "source_value": "广州糯米饭",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record",
+      "display_text": "广州糯米饭"
+    },
+    {
+      "id": "R0263",
+      "from": "ST23",
+      "type": "has_food",
+      "to": "FOOD_cbef9b1afa3e",
+      "source_record": "小寒",
+      "source_field": "food",
+      "source_value": "涮羊肉、糖炒栗子、烤白薯",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record",
+      "display_text": "涮羊肉、糖炒栗子、烤白薯"
+    },
+    {
+      "id": "R0264",
+      "from": "ST23",
+      "type": "has_food",
+      "to": "FOOD_fc0c0750e541",
+      "source_record": "小寒",
+      "source_field": "food",
+      "source_value": "涮羊肉、糖炒栗子、烤白薯",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record",
+      "display_text": "涮羊肉、糖炒栗子、烤白薯"
+    },
+    {
+      "id": "R0265",
+      "from": "ST23",
+      "type": "has_food",
+      "to": "FOOD_290a715e10ef",
+      "source_record": "小寒",
+      "source_field": "food",
+      "source_value": "涮羊肉、糖炒栗子、烤白薯",
+      "source_url": "https://www.ihchina.cn/solar_details/6983.html",
+      "source_scope": "solar_term_record",
+      "display_text": "涮羊肉、糖炒栗子、烤白薯"
+    },
+    {
+      "id": "R0266",
+      "from": "ST24",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_af8b78400fb8",
+      "source_record": "大寒",
+      "source_field": "phenology",
+      "source_value": "一候鸡乳",
+      "source_url": "https://www.ihchina.cn/solar_details/6984.html",
+      "source_scope": "solar_term_record",
+      "order": 1,
+      "display_text": "一候鸡乳"
+    },
+    {
+      "id": "R0267",
+      "from": "ST24",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_3555d7f00440",
+      "source_record": "大寒",
+      "source_field": "phenology",
+      "source_value": "二候征鸟厉疾",
+      "source_url": "https://www.ihchina.cn/solar_details/6984.html",
+      "source_scope": "solar_term_record",
+      "order": 2,
+      "display_text": "二候征鸟厉疾"
+    },
+    {
+      "id": "R0268",
+      "from": "ST24",
+      "type": "has_phenology",
+      "to": "PHENOLOGY_634bf6b47ba3",
+      "source_record": "大寒",
+      "source_field": "phenology",
+      "source_value": "三候水泽腹坚",
+      "source_url": "https://www.ihchina.cn/solar_details/6984.html",
+      "source_scope": "solar_term_record",
+      "order": 3,
+      "display_text": "三候水泽腹坚"
+    },
+    {
+      "id": "R0269",
+      "from": "ST24",
+      "type": "has_custom",
+      "to": "CUSTOM_7ceb1dffd174",
+      "source_record": "大寒",
+      "source_field": "custom",
+      "source_value": "尾牙祭（福建沿海、台湾）",
+      "source_url": "https://www.ihchina.cn/solar_details/6984.html",
+      "source_scope": "solar_term_record",
+      "display_text": "尾牙祭（福建沿海、台湾）"
+    },
+    {
+      "id": "R0270",
+      "from": "ST24",
+      "type": "has_custom",
+      "to": "CUSTOM_1cab940ad582",
+      "source_record": "大寒",
+      "source_field": "custom",
+      "source_value": "腊八",
+      "source_url": "https://www.ihchina.cn/solar_details/6984.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0271",
+      "from": "ST24",
+      "type": "has_custom",
+      "to": "CUSTOM_f65399962394",
+      "source_record": "大寒",
+      "source_field": "custom",
+      "source_value": "除旧布新备年货",
+      "source_url": "https://www.ihchina.cn/solar_details/6984.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0272",
+      "from": "ST24",
+      "type": "has_custom",
+      "to": "CUSTOM_e3f08c11cd18",
+      "source_record": "大寒",
+      "source_field": "custom",
+      "source_value": "岭南捉田鼠",
+      "source_url": "https://www.ihchina.cn/solar_details/6984.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0273",
+      "from": "ST24",
+      "type": "has_food",
+      "to": "FOOD_e446c61858ec",
+      "source_record": "大寒",
+      "source_field": "food",
+      "source_value": "腊八粥",
+      "source_url": "https://www.ihchina.cn/solar_details/6984.html",
+      "source_scope": "solar_term_record"
+    },
+    {
+      "id": "R0274",
+      "from": "ST24",
+      "type": "has_food",
+      "to": "FOOD_37c17e4effb5",
+      "source_record": "大寒",
+      "source_field": "food",
+      "source_value": "消寒糕（北京年糕）",
+      "source_url": "https://www.ihchina.cn/solar_details/6984.html",
+      "source_scope": "solar_term_record",
+      "display_text": "消寒糕（北京年糕）"
+    },
+    {
+      "id": "R0275",
+      "from": "ST24",
+      "type": "has_food",
+      "to": "FOOD_8431ab64a37b",
+      "source_record": "大寒",
+      "source_field": "food",
+      "source_value": "糯米饭（佛山）",
+      "source_url": "https://www.ihchina.cn/solar_details/6984.html",
+      "source_scope": "solar_term_record",
+      "display_text": "糯米饭（佛山）"
+    },
+    {
+      "id": "R0276",
+      "from": "ST24",
+      "type": "has_food",
+      "to": "FOOD_2206e0977b71",
+      "source_record": "大寒",
+      "source_field": "food",
+      "source_value": "炸春卷（安庆）",
+      "source_url": "https://www.ihchina.cn/solar_details/6984.html",
+      "source_scope": "solar_term_record",
+      "display_text": "炸春卷（安庆）"
+    },
+    {
+      "id": "R0277",
+      "from": "ST24",
+      "type": "has_food",
+      "to": "FOOD_b1ccf3cbf4b5",
+      "source_record": "大寒",
+      "source_field": "food",
+      "source_value": "炖鸡汤（南京）",
+      "source_url": "https://www.ihchina.cn/solar_details/6984.html",
+      "source_scope": "solar_term_record",
+      "display_text": "炖鸡汤（南京）"
+    }
+  ]
+}
